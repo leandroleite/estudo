@@ -2,3 +2,17 @@
 Redimensiona array:
 
 tabela.reshape(numeroLinhas,numeroColunas)
+
+## reshape -1 parâmetro
+-1 significa que não sabe a dimensão.
+
+- arr = np.array([1,2,3,4,5])
+
+- arr.reshape(-1,1)
+~~~
+[[1]
+[2]
+[3]
+[4]
+[5]]
+~~~
