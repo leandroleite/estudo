@@ -2,7 +2,11 @@
 titulo: Array
 ---
 
+
+
 # Array
+
+Eficiente na questão da memória que provê operações numéricas rápidas.
 
 ## Python List para Array
 ~~~Python
