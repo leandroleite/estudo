@@ -10,9 +10,15 @@ titulo: Sistema Financeiro Nacional
 
 ## Agentes econômicos superavitários e os deficitários de recursos
 
-- **Agente Superavitário**: Possui recurso disponível. Empresta seu dinheiro em uma Instituição Financeira
-- **Sistema Financeiro Nacional**: Conjunto de Instituições que vabilizam essa transferência de recursos. Possui regulamentação e fiscalização para dar mais garantia e também solidez aos negócios realizados.
-- **Agente Deficitário**: É tomador de recursos. Possui dificuldades financeiras ou falta de capital de investimentos.
+- **Agente Superavitário**:
+  - Possui recurso disponível.
+  - Empresta seu dinheiro em uma Instituição Financeira
+- **Sistema Financeiro Nacional**:
+  - Conjunto de Instituições que vabilizam essa transferência de recursos.
+  - Possui regulamentação e fiscalização para dar mais garantia e também solidez aos negócios realizados.
+- **Agente Deficitário**:
+  - É tomador de recursos.
+  - Possui dificuldades financeiras ou falta de capital de investimentos.
 
 ## Organização
 
@@ -28,9 +34,17 @@ titulo: Sistema Financeiro Nacional
 
 **mercado de câmbio**: é o mercado de compra e venda de moeda estrangeira.
 
-- **Órgão Normativos**: CMN (Conselho Montetário Nacional)
-- **Órgão Supervisores**: BACEN (Banco Central do Brasil)
-- **Operadores**: Bancos e caixas econômicas, Administradores de Consórcio, Cooperativas de Crédito, Corretoras e distribuidoras, Instituições de Pagamento, Demais instituições não bancárias
+- **Órgão Normativos**:
+  - CMN (Conselho Montetário Nacional)
+- **Órgão Supervisores**:
+  - BACEN (Banco Central do Brasil)
+- **Operadores**:
+  - Bancos e caixas econômicas
+  - Administradores de Consórcio
+  - Cooperativas de Crédito
+  - Corretoras e distribuidoras
+  - Instituições de Pagamento
+  - Demais instituições não bancárias
 
 As Instituições de Pagamento não compõem o SFN, mas são reguladas e fiscalizadas pelo BCB, conforme diretrizes estabelecidas pelo CMN.
 
@@ -38,9 +52,14 @@ As Instituições de Pagamento não compõem o SFN, mas são reguladas e fiscali
 
 É o mercado que permite às empresas em geral captar recursos de terceiros e, portanto, compartilhar os ganhos e os riscos;
 
-- **Órgão Normativos**: CMN (Conselho Montetário Nacional)
-- **Órgão Supervisores**: BACEN (Banco Central do Brasil) e CVM (Comissão de Valores Mobiliários) 
-- **Operadores**: Bolsa de valores, Bolsa de mercadorias e futuros
+- **Órgão Normativos**:
+  - CMN (Conselho Montetário Nacional)
+- **Órgão Supervisores**:
+  - BACEN (Banco Central do Brasil)
+  - CVM (Comissão de Valores Mobiliários) 
+- **Operadores**:
+  - Bolsa de valores
+  - Bolsa de mercadorias e futuros
 
 Dependendo de suas atividades corretoras e distribuidoras também são fiscalizadas pela CVM.
 
@@ -52,14 +71,22 @@ Dependendo de suas atividades corretoras e distribuidoras também são fiscaliza
 
 **contratos de capitalização**: são os acordos em que o contratante deposita valores podendo recebê-los de volta com juros e concorrer a prêmios.
 
-- **Órgão Normativos**: CNSP (Conselho Nacional de Seguros Privados)
-- **Órgão Supervisores**: Susep (Superintendência de Seguros Privados)
-- **Operadores**: Seguradoras e Resseguradoras, Entidades abertas de previdência, Sociedades de capitalização
+- **Órgão Normativos**:
+  - CNSP (Conselho Nacional de Seguros Privados)
+- **Órgão Supervisores**:
+  - Susep (Superintendência de Seguros Privados)
+- **Operadores**:
+  - Seguradoras e Resseguradoras,
+  - Entidades abertas de previdência,
+  - Sociedades de capitalização
 
 ## Mercado de Previdência Fechada
 
 Voltado para funcionários de empresas e organizações. O ramo dos fundos de pensão trata de planos de aposentadoria, poupança ou pensão para funcionários de empresas, servidores públicos e integrantes de associações ou entidades de classe.
 
-- **Órgão Normativos**: CNPC (Conselho Nacional de Previdência Complementar)
-- **Órgão Supervisores**: Previc (Superintendência Nacional de Previdência Complementar)
-- **Operadores**: Entidades fechadas de previdência complementar (fundo de pensões)
+- **Órgão Normativos**:
+  - CNPC (Conselho Nacional de Previdência Complementar)
+- **Órgão Supervisores**:
+  - Previc (Superintendência Nacional de Previdência Complementar)
+- **Operadores**:
+  - Entidades fechadas de previdência complementar (fundo de pensões)
