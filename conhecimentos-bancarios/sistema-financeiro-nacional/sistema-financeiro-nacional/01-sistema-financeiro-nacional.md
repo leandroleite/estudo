@@ -22,6 +22,8 @@ titulo: Sistema Financeiro Nacional
 
 ## Organização
 
+![Organização do SFN](01-sistema-financeiro-nacional___organização.png)
+
 -  **órgãos normativos**: determinam regras gerais para o bom funcionamento do sistema.
 -  **entidades supervisoras**: trabalham para que os integrantes do sistema financeiro sigam as regras definidas pelos órgãos normativos.
 -  **operadores**: são as instituições que ofertam serviços financeiros, no papel de intermediários.
