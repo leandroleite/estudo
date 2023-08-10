@@ -1,3 +1,0 @@
-  # Sociedades de crédito imobiliário
-
-  
