@@ -4,8 +4,6 @@ titulo: CVM - Comissão de Valores Mobiliários
 - [LEI No 6.385, DE 7 DE DEZEMBRO DE 1976](https://www.planalto.gov.br/ccivil_03/leis/l6385.htm): Dispõe sobre o mercado de valores mobiliários e cria a Comissão de Valores Mobiliários.
 - [LEI No 6.404, DE 15 DE DEZEMBRO DE 1976](https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm): Dispõe sobre as Sociedades por Ações.
 - [Sobre a CVM](https://www.gov.br/cvm/pt-br/acesso-a-informacao-cvm/institucional/sobre-a-cvm): A Comissão de Valores Mobiliários (CVM) foi criada em 07/12/1976 pela Lei 6.385/76, com o objetivo de fiscalizar, normatizar, disciplinar e desenvolver o mercado de valores mobiliários no Brasil.
-- []():
-- [](): 
 
 # Comissão de Valores Mobiliários - CVM
 
