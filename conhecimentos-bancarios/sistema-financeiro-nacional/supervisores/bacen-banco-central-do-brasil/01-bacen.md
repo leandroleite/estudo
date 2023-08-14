@@ -17,7 +17,7 @@ titulo: BACEN - Banco Central do Brasil
 - zelar pela estabilidade e pela eficiência do sistema financeiro,
 - suavizar as flutuações do nível de atividade econômica e
 - fomentar o pleno emprego.
-- 
+ 
 ## Gestor das reservas cambiais
 
 Responsável pela gestão das reservas cambiais onde se formam as taxas de câmbio. Nesse sentido, a autarquia faz manutenção dos ativos em moedas internacionais com o intuito de assegurar o poder de compra nacional e também garantir um bom desempenho nos que tange às transações internacionais.
