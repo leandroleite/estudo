@@ -14,7 +14,7 @@ Os depósitos a prazo são produtos financeiros oferecidos pelos bancos que paga
 
 Ao realizar um depósito a prazo, o banco precisa emitir um recibo, confirmando a existência do crédito, assim como os juros aos quais o investidor dos recursos terá direito na data final.
 
-- **CDB*** (Certificado de Depósito Bancário): são títulos de renda fixa emitidos pelos bancos com a finalidade de captação de recursos que serão direcionados para a realização das várias atividades feitas pelos bancos.
+- **CDB** (Certificado de Depósito Bancário): são títulos de renda fixa emitidos pelos bancos com a finalidade de captação de recursos que serão direcionados para a realização das várias atividades feitas pelos bancos.
 - **RDB** (Recibo de Depósito Bancário): Não podem ser negociável antes de seu vencimento (sem liquidez)
 
 
