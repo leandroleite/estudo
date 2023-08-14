@@ -9,7 +9,7 @@ titulo: CMN Conselho Monetário Nacional
 
 # CMN Conselho Monetário Nacional
 
-- É o órgão órgão normativo superior do Sistema Financeiro Nacional (SFN)
+- É o órgão normativo superior do Sistema Financeiro Nacional (SFN)
 - Tem a responsabilidade de **formular a política da moeda e do crédito**.
 - Seu objetivo é a **estabilidade da moeda** e o **desenvolvimento econômico e social** do país.
 
