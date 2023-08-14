@@ -56,3 +56,14 @@ O CMN conduz o SFN com sua atividade regulatória por meio de elaboração de at
 - Colaborar com o Senado Federal, na instrução dos processos de empréstimos externos dos Estados, do Distrito Federal e dos Municípios, para cumprimento do disposto no art. 63, nº II, da Constituição Federal;
 - Expedir normas e regulamentação para as designações e demais efeitos do art. 7º, desta lei.
 - Regular os depósitos a prazo de instituições financeiras e demais sociedades autorizadas a funcionar pelo Banco Central do Brasil, inclusive entre aquelas sujeitas ao mesmo controle acionário ou coligadas.
+
+## Compete ao CMN no Mercado de Valores Mobiliários
+
+- definir a política a ser observada na organização e no funcionamento do mercado de valores mobiliários;
+- regular a utilização do crédito nesse mercado;
+- fixar, a orientação geral a ser observada pela Comissão de Valores Mobiliários no exercício de suas atribuições;
+- definir as atividades da Comissão de Valores Mobiliários que devem ser exercidas em coordenação com o Banco Central do Brasil.
+- aprovar o quadro e o regulamento de pessoal da Comissão de Valores Mobiliários, bem como fixar a retribuição do presidente, diretores, ocupantes de funções de confiança e demais servidores.            
+- estabelecer, para fins da política monetária e cambial, condições específicas para negociação de contratos derivativos, independentemente da natureza do investidor, podendo, inclusive:  
+  - determinar depósitos sobre os valores nocionais dos contratos; e   
+  - fixar limites, prazos e outras condições sobre as negociações dos contratos derivativos.
