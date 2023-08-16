@@ -3,8 +3,9 @@ titulo: CH Companhias hipotecárias
 ---
 - [O que é companhia hipotecária?](https://www.bcb.gov.br/acessoinformacao/legado?url=https:%2F%2Fwww.bcb.gov.br%2Fpre%2Fcomposicao%2Fcomp_hipotecaria.asp%3Fidpai%3DSFNCOMP): Instituição atua no segmento imobiliário.
 - [Companhias Hipotecárias](https://www.topinvest.com.br/companhias-hipotecarias/): No artigo de hoje falaremos de um assuntos de grande importância no Sistema Financeiro Nacional – SFN, as Companhias Hipotecárias, que também são conhecidas pela sigla CH.
+- [Companhias hipotecárias: saiba o que é esse tipo de instituição](https://www.suno.com.br/artigos/companhias-hipotecarias/): A hipoteca é um tipo de empréstimo imobiliário onde o credor cede uma quantia tendo o próprio imóvel financiado como garantia de recebimento. As companhias hipotecárias são as instituições que concedem este tipo de financiamento no Brasil.
 
-# Companhias hipotecárias CH e cooperativas de crédito rural
+# Companhias hipotecárias CH
 
 Tem por objetivo a concessão de financiamentos imobiliários residenciais ou comerciais, empréstimos garantidos por hipotecas ou alienação fiduciária de imóveis e repasses de recursos relacionados a programas imobiliários, além da administração de fundos de investimento imobiliário.
 
