@@ -23,6 +23,11 @@ Além dos depósitos de poupança, são constituídas de:
 - empréstimos e financiamentos contraídos no exterior;
 - letras de crédito imobiliário, letra financeira e depósitos interfinanceiros.
 
+## Captação diretamente relacionada ao segmento imobiliário
+
+- Captam depósitos de poupança, LCI e LH
+- Constituídas como sociedade civil
+
 ## Poupex - Associação de Poupança e Empréstimo
 
 O Decreto-Lei nº 70, de 21 de novembro de 1966, estabeleceu a atuação regional das APEs. Ao longo do tempo perderam representatividade no Sistema Financeiro, restando apenas a Poupex - Associação de Poupança e Empréstimo, única APE em pleno funcionamento, criada com o amparo da Lei 6.855, de 18 de novembro de 1980.
