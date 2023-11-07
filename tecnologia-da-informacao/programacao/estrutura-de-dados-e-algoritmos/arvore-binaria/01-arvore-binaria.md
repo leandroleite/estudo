@@ -11,6 +11,9 @@ titulo: Árvore Binária
 Uma árvore binária é uma estrutura de dados mais geral que uma lista encadeada.
 
 ## Elementos
+
+![](01-arvore-binaria___01.png)
+
 - **Nós** - são todos os itens guardados na árvore
 - **Raiz** - é o nó do topo da árvore (no caso da figura acima, a raiz é o nó 8)
 - **Filhos** - são os nós que vem depois dos outros nós (no caso da figura acima, o nó 6 é filho do 3)
