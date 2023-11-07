@@ -14,6 +14,7 @@ Ao adotar uma cultura de DevOps em conjunto com as práticas e ferramentas de De
 
 ## DevOps e o ciclo de vida do aplicativo
 
+![Ciclo de vida aplicativo](01-devops___ciclo-vida-aplicativo.png)
 
 ### Planejamento
 
