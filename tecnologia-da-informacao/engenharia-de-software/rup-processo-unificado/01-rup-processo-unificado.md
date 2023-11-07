@@ -26,6 +26,8 @@ titulo: RUP - Processo Unificado
 
 ## Disciplinas do RUP
 
+![](ciclo-de-vida-do-processo-01-rup-processo-unificado___unificado.png)
+
 - **Modelagem** de negócios: identifica o contexto de negócios do sistema, incluindo o funcionamento da organização em que a solução será implantada.
 - **Requisitos**: alinhamento do que o sistema deve fazer, ou seja, definição das funcionalidades necessárias ao sistema, segundo as expectativas do cliente.
 - **Análise e design**: definição da arquitetura do sistema, de acordo com os requisitos levantados na etapa anterior. Em outras palavras, é a fase responsável pela modelagem do projeto.
