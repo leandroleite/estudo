@@ -7,6 +7,8 @@ titulo: Padrões Estruturais - Adapter
 
 O Adapter é um padrão de projeto estrutural que permite objetos com interfaces incompatíveis colaborarem entre si.
 
+![](01-padroes-estruturais-adapter___01.png)
+
 ## Problema
 
 Imagine que você está criando uma aplicação de monitoramento do mercado de ações da bolsa. A aplicação baixa os dados as ações de múltiplas fontes em formato XML e então mostra gráficos e diagramas maneiros para o usuário.
@@ -14,6 +16,8 @@ Imagine que você está criando uma aplicação de monitoramento do mercado de a
 Em algum ponto, você decide melhorar a aplicação ao integrar uma biblioteca de análise de terceiros. Mas aqui está a pegadinha: a biblioteca só trabalha com dados em formato JSON.
 
 Você poderia mudar a biblioteca para que ela funcione com XML. Contudo, isso pode quebrar algum código existente que depende da biblioteca. E pior, você pode não ter acesso ao código fonte da biblioteca para começo de conversa, fazendo dessa abordagem uma tarefa impossível.
+
+![](01-padroes-estruturais-adapter___02.png)
 
 ## Solução
 
@@ -28,3 +32,5 @@ Adaptadores podem não só converter dados em vários formatos, mas também pode
 3. Ao receber a chamada, o adaptador passa o pedido para o segundo objeto, mas em um formato e ordem que o segundo objeto espera.
 
 Algumas vezes é possível criar um adaptador de duas vias que pode converter as chamadas em ambas as direções.
+
+![](01-padroes-estruturais-adapter___03.png)
