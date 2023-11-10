@@ -20,15 +20,11 @@ A partir desse cenário, deve ser elaborado um modelo conceitual de classe UML, 
 
 Qual generalização é compatível com o cenário acima?
 
-## A
-
-## B
-
-## C
-
-## D
-
-## E
+- (A) ![](32-a.png)
+- (B) ![](32-b.png)
+- (C) ![](32-c.png)
+- (D) ![](32-d.png)
+- (E) ![](32-e.png)
 
 # QUESTAO NUMERO 33
 
@@ -139,7 +135,7 @@ def fb(p1,p2):
   if(len(p1)==0): 
        return 
   x=p1[len(p1)-1]
-  del p1[len(p1)-1] 
+  del p1[len(p1)-1]
   fb(p1,p2)
   p2.append(x)
 ```
@@ -148,9 +144,9 @@ def fb(p1,p2):
 
 ```python
 def fc(p1,p2):
-  if(len(p1)==0): 
+  if(len(p1)==0):
        return
-  p2.append(p1.pop()) 
+  p2.append(p1.pop())
   fc(p1,p2)
 ```
 
@@ -166,7 +162,7 @@ def fd(p1,p2):
 
 ```python
 def fe(p1,p2):
-  for i in range(len(p1)): 
+  for i in range(len(p1)):
        p2.append(p1[i])
 ```
 
@@ -188,15 +184,11 @@ A solução proposta pela equipe de desenvolvimento foi baseada no padrão de pr
 
 Qual árvore binária pode ser classificada como árvore binária de busca?
 
-## A
-
-## B
-
-## C
-
-## D
-
-## E
+- (A) ![](37-a.png)
+- (B) ![](37-b.png)
+- (C) ![](37-c.png)
+- (D) ![](37-d.png)
+- (E) ![](37-e.png)
 
 # QUESTAO NUMERO  38
 
