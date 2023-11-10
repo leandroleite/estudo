@@ -311,6 +311,8 @@ O dispositivo de hardware responsável por essa tradução é a
 
 # QUESTAO NUMERO 43
 
+- [Conhecimento](tecnologia-da-informacao/sistemas-operacionais/linux/01-ext2-second-extended-file-system.md)
+
 O ext2 (Second Extended File System) é um dos sistemas de arquivos suportados pelo sistema operacional Linux.
 
 Nesse sistema de arquivos, com exceção do nome do arquivo, todos os demais atributos, como permissões de acesso, identificação do dono do arquivo, identificação do grupo do arquivo, tamanho do arquivo, entre outros, são armazenados numa estrutura conhecida como
@@ -322,6 +324,8 @@ Nesse sistema de arquivos, com exceção do nome do arquivo, todos os demais atr
 - (E) file allocation table
 
 # QUESTAO NUMERO 44
+
+- [Conhecimento](tecnologia-da-informacao/organizacao-e-arquitetura-de-computadores/dispositivos-de-hardware/cpu-unidade-central-de-processamento)
 
 A Unidade Central de Processamento (UCP) controla a operação de um computador e realiza suas funções e processamento de dados.
 
