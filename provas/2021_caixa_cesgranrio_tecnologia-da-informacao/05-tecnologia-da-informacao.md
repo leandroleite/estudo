@@ -1,5 +1,8 @@
 # QUESTAO NUMERO 31
 
+- [Conhecimento](tecnologia-da-informacao/engenharia-de-software/devops/01-devops.md)
+- [Conhecimento](tecnologia-da-informacao/engenharia-de-software/metodos-ageis/02-shift-left-testing.md)
+
 No âmbito de DevOps, o termo "shift left testing" significa que os testes devem
 
 - (A) ser feitos junto com a entrada em operação do produto.
@@ -27,6 +30,8 @@ Qual generalização é compatível com o cenário acima?
 - (E) ![](32-e.png)
 
 # QUESTAO NUMERO 33
+
+- [Conhecimento](tecnologia-da-informacao/engenharia-de-software/rup-processo-unificado/01-rup-processo-unificado.md)
 
 Em quais fases do Processo Unificado (UP) o workflow (disciplina) de requisitos é executado?
 
@@ -112,7 +117,8 @@ public A2() {
 Duas pilhas, p1 e p2, foram implementadas em Python, por meio de listas em que o último elemento da lista é o topo da pilha. As configurações iniciais dessas pilhas são as seguintes:
 
 ```python
-p1=[50,40,30,20,10] p2=[ ]
+p1=[50,40,30,20,10] 
+p2=[ ]
 ```
 
 Qual função irá transferir os elementos de p1 para p2, de modo que p1 passe a ser uma pilha vazia, e p2 passe a ter a mesma configuração que p1 tinha, antes da chamada da função?
@@ -168,6 +174,8 @@ def fe(p1,p2):
 
 # QUESTAO NUMERO  36
 
+- [Conhecimento](tecnologia-da-informacao/engenharia-de-software/padroes-de-projetos/estruturais-proxy/01-padroes-estruturais-proxy.md)
+
 Uma aplicação Java deve oferecer suporte para que os serviços disponibilizados por objetos que consomem muitos recursos possam ser requisitados, indiretamente, pelas demais classes (clientes) dessa aplicação. As soluções para esse problema de design devem impedir que esses objetos sejam diretamente referenciados pelos clientes, pois eles só devem ser instanciados quando seus serviços forem realmente solicitados.
 
 A solução que a equipe de desenvolvimento propôs irá fornecer substitutos para esses objetos reais, de modo a controlar o acesso a eles. As classes dos objetos reais e dos objetos substitutos devem implementar uma mesma interface. Dessa forma, os substitutos servirão de representantes dos objetos reais. Eles receberão requisições dos clientes e as delegarão aos objetos reais.
@@ -175,12 +183,19 @@ A solução que a equipe de desenvolvimento propôs irá fornecer substitutos pa
 A solução proposta pela equipe de desenvolvimento foi baseada no padrão de projeto
 
 - (A) Facade
+- [Conhecimento](tecnologia-da-informacao/engenharia-de-software/padroes-de-projetos/estruturais-facade/01-padroes-estruturais-facade.md)
 - (B) Adapter
+- [Conhecimento](tecnologia-da-informacao/engenharia-de-software/padroes-de-projetos/estruturais-adapter/01-padroes-estruturais-adapter.md)
 - (C) Proxy
+- [Conhecimento](tecnologia-da-informacao/engenharia-de-software/padroes-de-projetos/estruturais-proxy/01-padroes-estruturais-proxy.md)
 - (D) Bridge
+- [Conhecimento](tecnologia-da-informacao/engenharia-de-software/padroes-de-projetos/estruturais-bridge/01-padroes-estruturais-bridge.md)
 - (E) Composite
+- [Conhecimento](tecnologia-da-informacao/engenharia-de-software/padroes-de-projetos/estruturais-composite/01-padroes-estruturais-composite.md)
 
 # QUESTAO NUMERO 37
+
+- [Conhecimento](tecnologia-da-informacao/programacao/estrutura-de-dados-e-algoritmos/arvore-binaria/01-arvore-binaria.md)
 
 Qual árvore binária pode ser classificada como árvore binária de busca?
 
@@ -217,6 +232,8 @@ Um sistema gerenciador de banco de dados utiliza metadados, persistidos em banco
 - (E) validar comandos SQL informados por um usuário.
 
 # QUESTAO NUMERO 40
+
+- [Conhecimento](tecnologia-da-informacao/engenharia-de-software/analise-por-pontos-de-funcao/01-analise-por-pontos-de-funcao.md)
 
 Uma equipe de desenvolvimento precisa informar a quantidade de pontos de função do software que será mantido por uma empresa.
 
@@ -277,6 +294,8 @@ O que será exibido no console quando o método main for executado?
 - (E) 31
 
 # QUESTAO NUMERO 42
+
+- [Conhecimento](tecnologia-da-informacao/organizacao-e-arquitetura-de-computadores/dispositivos-de-hardware/mmu-memory-management-unit/01-mmu-memory-management-unit.md)
 
 Na técnica de memória virtual, a tarefa de tradução dos endereços virtuais é realizada por hardware, juntamente com o sistema operacional, para não comprometer o desempenho.
 
