@@ -13,6 +13,8 @@ No âmbito de DevOps, o termo "shift left testing" significa que os testes devem
 
 # QUESTAO NUMERO 32
 
+- [Conhecimento](tecnologia-da-informacao/engenharia-de-software/uml/02-generalizacao.md)
+
 Uma universidade deseja implementar um sistema de controle de acesso às salas do seu campus. Esse sistema deve levar em consideração o seguinte cenário:
 
 - Apenas três categorias de pessoas terão acesso às salas: professores, estudantes e funcionários;
