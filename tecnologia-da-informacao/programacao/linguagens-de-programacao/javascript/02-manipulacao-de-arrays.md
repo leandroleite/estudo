@@ -1,11 +1,11 @@
 ---
-titulo: Map, Filter e Reduce
+titulo: Manipulação de arrays
 ---
 - [Conhecendo map(), filter() e reduce() em JavaScript](https://hcode.com.br/blog/conhecendo-map-filter-reduce-em-javascript): Manipular arrays é um dos trabalhos mais repetitivos que realizamos ao trabalhar com JavaScript. E há três métodos muito conhecidos que nos ajudam nessa manipulação: map(), filter() e reduce(). Eles são métodos conhecidos, mas nem sempre lembramos o objetivo de cada um deles.
 
-# Map, Filter e Reduce
+# Manipulação de arrays
 
-Manipular arrays é um dos trabalhos mais repetitivos que realizamos ao trabalhar com JavaScript. E há três métodos muito conhecidos que nos ajudam nessa manipulação: map(), filter() e reduce(). Eles são métodos conhecidos, mas nem sempre lembramos o objetivo de cada um deles.
+Manipular arrays é um dos trabalhos mais repetitivos que realizamos ao trabalhar com JavaScript.
 
 ## map()
 
