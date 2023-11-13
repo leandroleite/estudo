@@ -93,3 +93,8 @@ Uma subclasse tem o mesmo método que foi declarado na superclasse **method over
   - pode lançar exceções verificadas mais restritas
   - pode lançar qualquer exceção não verificada.
 - Apenas métodos herdados podem ser sobrescritos (é necessário um relacionamento É UM).
+
+## Blocos de inicialização
+
+- executam sempre antes de chamar o construtor
+- set for **static** executa somente a primeira vez
