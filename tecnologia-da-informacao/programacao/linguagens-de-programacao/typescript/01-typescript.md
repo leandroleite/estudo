@@ -1,8 +1,8 @@
 ---
 titulo: TypeScript
 ---
--[O que é TypeScript? [Guia para iniciantes]](https://tecnoblog.net/responde/o-que-e-typescript-guia-para-iniciantes/): Saiba o que é TypeScript, quando foi criado e quais recursos e vantagens a linguagem adiciona ao JavaScript tradicional
--[Introdução a Typescript: o que é e como começar?](https://blog.geekhunter.com.br/introducao-a-typescript/): Sabendo das limitações que o Javascript possui, Anders Hejlsberg, que também participou da criação do C#, do Delphi, do Turbo Pascale da plataforma .NET, resolveu criar o Typescript.
+- [O que é TypeScript? [Guia para iniciantes]](https://tecnoblog.net/responde/o-que-e-typescript-guia-para-iniciantes/): Saiba o que é TypeScript, quando foi criado e quais recursos e vantagens a linguagem adiciona ao JavaScript tradicional
+- [Introdução a Typescript: o que é e como começar?](https://blog.geekhunter.com.br/introducao-a-typescript/): Sabendo das limitações que o Javascript possui, Anders Hejlsberg, que também participou da criação do C#, do Delphi, do Turbo Pascale da plataforma .NET, resolveu criar o Typescript.
 
 # TypeScript
 
