@@ -2,11 +2,15 @@
 
 Em um programa em Swift, o programador deseja incluir o resultado de uma operação dentro de uma string. Nesse contexto, considere o seguinte código:
 
+~~~swift
 let quantidade = 4 let valor = 10
+~~~
 
 Dado o código acima, o programador deseja uma string saida cujo valor seja
 
+~~~swift
 "valor total = 40"
+~~~
 
 Para isso, o programador deve utilizar o seguinte fragmento de código Swift:
 
@@ -22,11 +26,14 @@ Analise o código a seguir, feito em Python com o Scikit-learn.
 
 ~~~python
 import numpy as np
-import sklearn.linear_model as skl base = np.array([1, 2, 3, 4, 5, 6]) x = base.reshape((-1, 1))
+import sklearn.linear_model as skl
+base = np.array([1, 2, 3, 4, 5, 6])
+x = base.reshape((-1, 1))
 y = base*2+3
 
 # a fazer
-print('a', model.coef_[0]) print('b', model.intercept_)
+print('a', model.coef_[0])
+print('b', model.intercept_)
 ~~~
 
 A partir desse código, um programador quer obter os parâmetros a e b da equação y = ax + b, por meio de uma regressão
@@ -56,10 +63,13 @@ Nesse cenário, com que fragmento de código o programador deve começar, de for
 
 Analise com atenção o código a seguir, escrito em TypeScript 4.0.
 
-function segredo(a: number[]) { return a.map(x=>x*2);
+~~~typescript
+function segredo(a: number[]) {
+     return a.map(x=>x*2);
 }
 
 console.log(segredo([1,2,3]));
+~~~
 
 O que será exibido no console quando o código acima for executado?
 
@@ -137,9 +147,12 @@ Nesse cenário, analise o seguinte código:
 
 ~~~python
 import pandas as pd
-data = {'x':[1,2,3], 'y':[3, 7, 11], 'z': [False, True, False]} df = pd.DataFrame(data)
-m = df['z'] == False ef = df[m]
-# a fazer print(ff)
+data = {'x':[1,2,3], 'y':[3, 7, 11], 'z': [False, True, False]}
+df = pd.DataFrame(data)
+m = df['z'] == False
+ef = df[m]
+# a fazer
+print(ff)
 ~~~
 
 Ao executar esse código, deseja-se obter a seguinte saída:
