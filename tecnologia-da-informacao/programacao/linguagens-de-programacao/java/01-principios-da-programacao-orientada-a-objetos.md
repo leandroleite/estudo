@@ -1,5 +1,5 @@
 ---
-titulo: Orientação a objetos
+titulo: Princípios da programação orientada a objetos
 ---
 - [Princípios de programação orientada a objetos em Java: Conceitos de POO para iniciantes](https://www.freecodecamp.org/portuguese/news/principios-de-programacao-orientada-a-objetos-em-java-conceitos-de-poo-para-iniciantes/) : A programação orientada a objetos é um paradigma de programação onde tudo é representado como um objeto.
 
