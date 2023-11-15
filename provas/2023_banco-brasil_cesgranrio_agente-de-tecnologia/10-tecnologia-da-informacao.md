@@ -1,9 +1,14 @@
 # QUESTAO NUMERO 36
 
+- [Conhecimento](https://github.com/leandroleite/estudo/blob/main/tecnologia-da-informacao/programacao/linguagens-de-programacao/swift/01-basico.md#vari%C3%A1veis-e-contantes)
+- [Conhecimento](https://github.com/leandroleite/estudo/blob/main/tecnologia-da-informacao/programacao/linguagens-de-programacao/swift/02-operacoes-basicas.md#operador-de-atribui%C3%A7%C3%A3o)
+- [Conhecimento](https://github.com/leandroleite/estudo/blob/main/tecnologia-da-informacao/programacao/linguagens-de-programacao/swift/03-strings-and-characters.md#interpola%C3%A7%C3%A3o-de-string)
+
 Em um programa em Swift, o programador deseja incluir o resultado de uma operação dentro de uma string. Nesse contexto, considere o seguinte código:
 
 ~~~swift
-let quantidade = 4 let valor = 10
+let quantidade = 4
+let valor = 10
 ~~~
 
 Dado o código acima, o programador deseja uma string saida cujo valor seja
@@ -21,6 +26,9 @@ Para isso, o programador deve utilizar o seguinte fragmento de código Swift:
 - (E) let saida := "valor total = \(quantidade*valor)"
 
 # QUESTAO NUMERO 37
+
+- [Conhecimento](tecnologia-da-informacao/manipulacao-de-dados/python/biblioteca-numpy/01-array.md)
+- [Conhecimento](tecnologia-da-informacao/manipulacao-de-dados/python/biblioteca-scikit-learn/01-linear-regression.md)
 
 Analise o código a seguir, feito em Python com o Scikit-learn.
 
