@@ -1,5 +1,5 @@
 ---
-titulo: Processamento Linguagem Natural
+titulo: Preparação de Dados
 ---
 - [Big Data x Informação – Transformando dados em informações valiosas em larga escala](https://awari.com.br/big-data-x-informacao-transformando-dados-em-informacoes-valiosas-em-larga-escala/?utm_source=blog&utm_campaign=projeto+blog&utm_medium=Big%20Data%20x%20Informa%C3%A7%C3%A3o%20-%20Transformando%20dados%20em%20informa%C3%A7%C3%B5es%20valiosas%20em%20larga%20escala): Importância do Big Data na Transformação de Dados em Informações Valiosas
 
