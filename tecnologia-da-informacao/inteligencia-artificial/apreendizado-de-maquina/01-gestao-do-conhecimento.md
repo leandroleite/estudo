@@ -1,7 +1,7 @@
 ---
 titulo: Gestão do conhecimento
 ---
-- [Gestão do Conhecimento Dado, Informação e Conhecimento]([https://www.sas.com/pt_br/insights/analytics/processamento-de-linguagem-natural.html](https://www.estrategiaconcursos.com.br/blog/dado-informacao-conhecimento/)https://www.estrategiaconcursos.com.br/blog/dado-informacao-conhecimento/): Este artigo se destina a explicar os componentes da gestão do conhecimento: o dado, a informação e o conhecimento.
+- [Gestão do Conhecimento Dado, Informação e Conhecimento](https://www.estrategiaconcursos.com.br/blog/dado-informacao-conhecimento/): Este artigo se destina a explicar os componentes da gestão do conhecimento: o dado, a informação e o conhecimento.
 
 # Gestão do conhecimento
 
