@@ -20,6 +20,6 @@ Identifica palavras-chave para destacar a mensagem central do texto:
   - A **lematização** converte palavras em sua forma raiz. Por exemplo, a forma raiz de sou é ser.
   - A **remoção de palavras irrelevantes** filtra palavras que não agregam valor significativo à frase. Por exemplo, com, para, em e de são palavras irrelevantes.
 
-## Análise de palavras-chave
+### Análise de palavras-chave
 
 Analisam melhor as palavras-chave extraídas e dão a elas uma pontuação de sentimento (uma escala de medição que indica o elemento emocional no sistema de análise de sentimentos
