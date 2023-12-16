@@ -17,9 +17,13 @@ O pandas permite trabalhar com diferentes tipos de dados, por exemplo:
 
 ## Estrutura de dados - Serie
 
+![Series](01-pandas___series.png)
+
 É uma matriz unidimensional que contém uma sequência de valores que apresentam uma indexação (que podem ser numéricos inteiros ou rótulos), muito parecida com uma única coluna no Excel.
 
 ## Estrutura de dados - DataFrame
+
+![DataFrames](01-pandas___dataframes.png)
 
 É uma estrutura de dados tabular, semelhante a planilha de dados do Excel, em que tanto as linhas quanto as colunas apresentam rótulos.
 
