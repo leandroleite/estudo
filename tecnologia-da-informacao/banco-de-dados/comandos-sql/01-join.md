@@ -9,6 +9,8 @@ Uma cláusula JOIN em SQL, correspondente a uma operação de junção em álgeb
 
 ## Inner Join
 
+[Inner Join](01-join___inner.png)
+
 - Compara cada linha da tabela A com as linhas da tabela B para encontrar todos os pares de linhas que satisfazem a condição de junção.
 - Se a condição de junção for avaliado como TRUE, os valores da coluna das linhas correspondentes das tabelas A e B serão combinados em uma nova linha e incluídos no conjunto de resultados.
 
@@ -19,6 +21,8 @@ INNER JOIN Tabela B ON A.Key = B.Key
 
 ## Left Join
 
+[Left Join](01-join___left.png)
+
 - Retorna todas as linhas da tabela **“esquerda” A** e as linhas correspondentes ou valores NULL da tabela **“esquerda” A**.
 
 ~~~sql
@@ -27,6 +31,8 @@ LEFT JOIN Tabela B ON A.Key = B.Key
 ~~~
 
 ## Right Join
+
+[Right Join](01-join___right.png)
 
 - Retorna um conjunto de resultados que inclui todas as linhas da tabela **“direita” B**, com ou sem linhas correspondentes na tabela **“esquerda” A**.
 
@@ -45,6 +51,8 @@ FULL JOIN Tabela B ON A.Key = B.Key
 ~~~
 
 ## Cross Join - Produto Cartesiano
+
+[Cross Join](01-join___cross.png)
 
 - Retorna todas as linhas das tabelas por cruzamento, ou seja, para cada linha da tabela esquerda queremos todos os linhas da tabelas direita ou vice-versa.
 - Também é chamado de produto cartesiano entre duas tabelas.
