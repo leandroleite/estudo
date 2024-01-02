@@ -2,6 +2,8 @@
 titulo: Princípios da programação orientada a objetos
 ---
 - [Princípios de programação orientada a objetos em Java: Conceitos de POO para iniciantes](https://www.freecodecamp.org/portuguese/news/principios-de-programacao-orientada-a-objetos-em-java-conceitos-de-poo-para-iniciantes/) : A programação orientada a objetos é um paradigma de programação onde tudo é representado como um objeto.
+- [Herança de construtores e Override](https://www.javaprogressivo.net/2012/10/heranca-de-construtores-e-override.html): Agora que você já sabe o que é herança, sua importância, quando usar e viu vários exemplos práticos do mundo real, vamos mostrar como fazer uma classe herdar as características de outra.
+- [Variáveis ​​estáticas em Java – Por que e como usar métodos estáticos](https://www.dio.me/articles/variaveis-estaticas-em-java-por-que-e-como-usar-metodos-estaticos): Variáveis ​​estáticas e métodos estáticos são dois conceitos importantes em Java.
 
 # Princípios da programação orientada a objetos
 
@@ -51,7 +53,7 @@ Abstração é o processo de esconder os detalhes de implementação e exibir ap
 - A primeira classe concreta que herde de uma classe abstrata deve prover implementação para todos os métodos abstratos.
 - Caso a subclasse não implemente os métodos abstratos da superclasse, ela deve também ser marcada como abstrata.
 
-### Interface
+## Interface
 
 É um template de uma classe. É 100 abstrata. 
 
@@ -94,7 +96,25 @@ Uma subclasse tem o mesmo método que foi declarado na superclasse **method over
   - pode lançar qualquer exceção não verificada.
 - Apenas métodos herdados podem ser sobrescritos (é necessário um relacionamento É UM).
 
+## Métodos e variáveis estáticas - Static
+
+- Há apenas uma cópia delas para toda a classe
+- Não precisa instanciar a classe para chamar método estático
+- Métodos estáticos somente podem ser redefinidos, nunca sobrescritos
+- Nunca poderá acessar um variável não static de um método static
+
 ## Blocos de inicialização
 
 - executam sempre antes de chamar o construtor
 - set for **static** executa somente a primeira vez
+
+### Ordem de Inicialização
+
+- Os campos e os blocos inicializadores de instância são executados na ordem em que aparecem o arquivo.
+- O construtor é executado depois que todos os campos e blocos de inicialização de instância são executados.
+
+## Construtores
+
+- Construtores não são herdados
+- Para chamar explícitamente o construtor da superclasse, usa-se **super"" sempre na 1ª linha
+- Se no construtor da subclasseSe não existir super(), java chmama implicitamente o construtor padrão da superclasse
