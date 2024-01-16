@@ -6,4 +6,4 @@ titulo: DCL - Data Control Language
 # DCL - Data Control Language
 
  - É a sub-língua responsável pela leitura, ou consulta, de dados de um banco de dados.
- - Em SQL, isto corresponde à SELECT
+ - Em SQL, isto corresponde à **SELECT**
