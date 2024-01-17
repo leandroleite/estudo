@@ -42,4 +42,32 @@ if (myName != null || myName.isBlank()) {
 }
 ~~~
 
+## Concatenando Strings
+
+### Método concat
+
+- **String concat(String str)**
+- Só aceita string como parâmetro (se for caractere tem que converter antes para String)
+
+~~~java
+"teste".concat("string2");
+string1.concat(Character.toString('x'));
+~~~
+
+### Operador +
+
+~~~java
+"Hello," + " world" + "!"
+~~~
+
+## Método charAt
+
+- **char charAt(int index)**
+- retorna o caractere
+- índice semore começa com 0
+
+## Método length
+
+- **int length()**
+- retorna o tamanho
 
