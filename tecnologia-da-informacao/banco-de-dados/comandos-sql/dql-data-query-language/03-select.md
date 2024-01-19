@@ -1,7 +1,7 @@
 ---
 titulo: Select
 ---
-- [Guia de consultas para o comando SELECT](SQL Select: Guia para Iniciantes): Veremos nesse artigo um pequeno guia de consultas para o comando SELECT, um dos mais importantes da linguagem SQL.
+- [Guia de consultas para o comando SELECT](https://www.devmedia.com.br/sql-select-guia-para-iniciantes/29530): Veremos nesse artigo um pequeno guia de consultas para o comando SELECT, um dos mais importantes da linguagem SQL.
 - [google](): sql select
 
 # Select
