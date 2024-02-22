@@ -18,7 +18,9 @@ class C {
 
 ## Sobreescrita - Overriding
 
-Tem relação a herança. **@Override**
+Tem relação com a herança. **@Override**
+
+Em Java, **variáveis de instância não se sobrescreve**. Somente sobrescreve **métodos**, 
 
 ~~~java
 class Animal {
@@ -49,8 +51,9 @@ class C {
 
 ## Ocultando - Hiding
 
-Um campo esconde todos os campos com o mesmo nome nas superclasses. Somente tem uma variável nas duas classes.
+Um campo esconde todos os campos com o mesmo nome nas superclasses. 
 
+No exemplo abaixo, existem duas variáveis definidas. Uma para cada classe. Na classe Cachorro se quiser acessar a pernas da super classe, tem que usar super.pernas.
 ~~~java
 class Animal {
     int pernas = 2;
