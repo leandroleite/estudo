@@ -4,3 +4,5 @@
 
 ## Bhaskara
 
+![Bhaskara](01-equacao-segundo-grau__bhaskara_01.png)
+
