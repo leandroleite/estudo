@@ -4,5 +4,5 @@
 
 ## Propriedades
 
-![Propriedades(2-radiciacao__radiciacao_01.png)
+![Propriedades](2-radiciacao__radiciacao_01.png)
 
