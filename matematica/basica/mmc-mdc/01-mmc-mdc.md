@@ -28,3 +28,5 @@ Se não houver nenhum número que os divida, além da unidade, o MDC é 1 e os n
 - Decompões dos números em fatores primos separadamente
 - MMC é igual ao produto dos fatores primos (comuns e não comuns) elevados aos **menores** expoentes
 
+![MDC](01-mmc-mdc__mdc_01.png)
+
