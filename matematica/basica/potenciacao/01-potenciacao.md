@@ -4,3 +4,5 @@
 
 ## Propriedades de potência
 
+![Propriedades](01-potenciacao__potenciacao_01.png)
+
