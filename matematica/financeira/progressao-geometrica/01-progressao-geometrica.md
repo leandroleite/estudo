@@ -2,7 +2,7 @@
 
 É toda sequência em que cada termo, a partir do segundo, é resultado da **multiplicação do termo anterior** por uma constante q (**razão**).
 
-(x, xq, xq<sup>2</sup>, ...)
+(x/, xq, xq<sup>2</sup>, ...)
 
 ## Encontrar qualquer termo
 
