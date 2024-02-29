@@ -7,7 +7,7 @@
 
 ## Termos de uma PA - Termo Geral
 
-A<sub>n</sub> = A<sub>**m**</sub> + (n - **m**) R
+![Termo Geral](01-progressoes-aritmeticas__termo_01.png)
 
 ## Encontrar razão de uma PA
 
@@ -23,6 +23,10 @@ Quantidade Termos = (Último - 1<sup>o</sup>) / Razão + 1
 
 ![Média](01-progressoes-aritmeticas__pa_media_01.png)
  
-- a soma de dois termos equidistantes dos extremos é igaul à soma dos seus extremos
+- a soma de dois termos equidistantes dos extremos é igual à soma dos seus extremos
 
 (1, 3, 5, 7, 9, 11, 13, 15, 17, 19) => a<sub>1</sub> + a<sub>10</sub>= a<sub>2</sub> + a<sub>9</sub> => 1 + 19 = 3 + 7
+
+## Somas dos termos
+
+![Soma dos Termos](01-progressoes-aritmeticas__soma_01.png)
