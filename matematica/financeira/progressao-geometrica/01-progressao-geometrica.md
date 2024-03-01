@@ -23,5 +23,3 @@ Sn = A1 ( Qn - 1) / Q - 1
 # Encontrar a soma infinita dos temos
 
 S in = A1 / 1 - q
-
-
