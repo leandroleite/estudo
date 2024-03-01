@@ -24,18 +24,14 @@ O produto de dois termos **equidistantes** dos extremos é igual ao produto dos 
 
 ![Termo](01-progressao-geometrica__termo_04.png)
 
-# Soma dos temos infinita
+## Soma dos temos infinita
 
 ![Termo](01-progressao-geometrica__termo_05.png)
 
 ## Encontrar a razão
 
-Q Diferença dos termos = último / primeiro
+![Termo](01-progressao-geometrica__termo_06.png)
 
 ## Encontrar quantidade de termos
 
-Q n-1 = último / primeiro
-
-
-
-
+![Termo](01-progressao-geometrica__termo_07.png)
