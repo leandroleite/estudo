@@ -22,3 +22,27 @@ A noção de desconto está diretamente ligada à ideia de **antecipação de te
 - Incide sombre o **Valor Atual**
 
 ![Desconto](01-descontos-simples__02.png)
+
+## Desconto Simples Comercial (Por Fora)
+
+A taxa incidirá **sobre o Valor Nominal**. Feito no comércio, instituições financeiras.
+
+![Por Fora](01-descontos-simplescomercial__01.png)
+
+### A relação entre os descontos
+
+Este atalho surgirá quando a questão pedir a relação entre os valores do **Desconto Simples por Dentro (Racional)** e do **Desconto Simples por Fora (Comercial)**.
+
+![Por Fora](01-descontos-simplescomercial__02.png)
+
+### A relação entre as taxas
+
+![Por Fora](01-descontos-simplescomercial__03.png)
+
+### Relação entre Descontos e Valor Nominal
+
+![Por Fora](01-descontos-simplescomercial__04.png)
+
+## Resumo
+
+![Por Fora](01-descontos-simplescomercial__05.png)
