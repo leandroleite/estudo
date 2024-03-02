@@ -1,0 +1,2 @@
+# Equivalência Simples de Capitais
+
