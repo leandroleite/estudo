@@ -20,6 +20,7 @@ A noção de desconto está diretamente ligada à ideia de **antecipação de te
 - É a operação irmã dos Juros.
 - Descontos por dentro traz de volta (enquantos os juros levam).
 - Incide sombre o **Valor Atual**
+- **Taxa Efetiva**
 
 ![Desconto](01-descontos-simples__02.png)
 
