@@ -1,4 +1,4 @@
-## Juros Simples
+# Juros Simples
 
 A taxa simples incidirá sempre sobre o valor do **Capital inicial**.
 
