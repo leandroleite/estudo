@@ -8,6 +8,8 @@ A noção de desconto está diretamente ligada à ideia de **antecipação de te
 - **A - Valor Atual**: o que será pago ou recebido
 - **Desconto**: diferença do Valor Nominal e o Valor Atual
 
+![Desconto](01-descontos-simples__01.png)
+
 ## Modalidades
 
 - **Desconto Simples Racional**: ou Desconto Simples **por dentro**
@@ -18,3 +20,5 @@ A noção de desconto está diretamente ligada à ideia de **antecipação de te
 - É a operação irmã dos Juros.
 - Descontos por dentro traz de volta (enquantos os juros levam).
 - Incide sombre o **Valor Atual**
+
+![Desconto](01-descontos-simples__02.png)
