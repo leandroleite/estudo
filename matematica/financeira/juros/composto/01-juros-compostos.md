@@ -68,3 +68,12 @@ A **taxa nominal** é sinal indicativo de **Regime Composto**.
 
 ![Taxa Real x Taxa Aparente](01-juros-compostos__06.png)
 
+### Calcular a Taxa Aparente
+
+Sempre considerar o tempo = **1 período**
+
+![Calcular a taxa aparente](01-juros-compostos__07.png)
+
+### Calcular a Inflação Acumulada
+
+![Calcular a Inflação Acumulada](01-juros-compostos__08.png)
