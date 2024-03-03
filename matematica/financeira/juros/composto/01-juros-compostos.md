@@ -48,5 +48,23 @@ A **taxa nominal** é sinal indicativo de **Regime Composto**.
   - maior para menor = divide. Ex: 36% a.a., capitalização mensal = (36/12) = 3% ao mês
   - menor para maior = multiplica. Ex: 1% ao mês, capitalização semestral = (1 * 6) = 6% ao semestre
  
+## Taxas no regime composto
 
+![Taxas no regime composto](01-juros-compostos__04.png)
+
+## Método da Convenção Linear
+
+É um método alternativo para se fazer uma operação de juros compostos. 
+
+- **INT**:parte **I**nteira do tempo
+- **Q**: parte **Q**uebrada do tempo
+
+![Método da Convenção Linear](01-juros-compostos__05.png)
+
+## Taxa Real x Taxa Aparente
+
+- **Taxa Aparente**: não leva em conta a inflação acumulada no período
+- **Taxa Real**: com inflação acumulada
+
+![Taxa Real x Taxa Aparente](01-juros-compostos__06.png)
 
