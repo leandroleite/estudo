@@ -66,6 +66,16 @@ Agora temos:
 - Personalização e produção puxada (quando o mercado demandar)
 - Mais competição e opções
 
+### Empresas tradicionais
+
+Qual das características a seguir é típica de uma **empresa mais tradicional**, alinhada com valores culturais do **século passado**, e se verifica cada vez menos no mundo corporativo atual?
+
+**Verticalização** As empresas do passado eram mais centralizadoras, mais focadas em estruturas monolíticas, herméticas, com menos terceirização e menor nível de colaboração com profissionais e entidades externas.
+
+- Nas empresas ágeis, mais modernas, a **disciplina** não só está presente como também é algo fundamental. Trata-se, entretanto, de uma espécie de autodisciplina, de uma ordenação com cadência e firmeza de propósito que tem origem no compromisso das pessoas com o sucesso do negócio.
+- O **comprometimento dos funcionários** também está presente no mundo de hoje, apesar da maior volatilidade e menor lealdade. O que ocorria no passado é que as pessoas ficavam ligadas a organizações mais por uma questão de paradigma do que por uma questão de identificação com os lugares. Hoje, o que liga as pessoas às organizações não é mais o modelo “carreirista”, mas sim, exatamente, o nível de comprometimento que cada um sente.
+- Hoje a **competição feroz do mercado** é até maior, face a maior variedade exigida pelo mercado e velocidade mais alta de mudanças.
+
 ## A sedutora cultura do Ágil
 
 ### Manifesto Ágil de Software 2001
@@ -98,6 +108,16 @@ Agora temos:
 - Feedback constante
 - Ambiente de aprendizado
 - Menor fronteirização
+
+### Ágil e valor ao negócio
+
+De que forma a cultura e os métodos ágeis contribuem para maior adição de valor aos produtos e serviços de uma organização?
+
+Através da **priorização e repriorização** constantes de características dos produtos e serviços e entregas de versões cedo. Isto está bem alinhado com o modelo Ágil de adaptabilidade e ajuda a fazer chegar mais cedo ao mercado características mais valorizadas pelo mesmo.
+
+- A alternativa fala de seguir as **mudanças do mercado**. Neste ponto, OK. Mas há pontos que não sintonizam com o Ágil: primeiro, ser ágil **não e necessariamente ser rápido** (uma equipe não tão veloz mas que faz entregas mais cedo, em pequenos lotes constantes, é ágil). Em segundo lugar, a montagem/desmontagem de equipes ao sabor do mercado não é um mindset ágil – pelo contrário, as vertentes mais modernas falam até de **equipes estáveis focadas em produto**, sem o “mundo cão” de contratar e demitir com frequência.
+- Há empreitadas que, por serem grandes, demoram mesmo anos para acontecer, mas se **as entregas forem constantes** teremos o Ágil. O problema é se o produto for grande e for entregue somente no final em um bloco só – neste caso, estaremos completamente fora do preconizado pelo Ágil e fazendo algo que pode ser desastroso para a adição de valor.
+- Podemos ser altamente disciplinados e fiéis a um método e nem por isto sermos ágeis ou estarmos adicionando valor ao produto ou serviço. Imagine por exemplo uma equipe bem disciplinada usando o mais puro método waterfall para entregar software – a chance de dar errado é grande.
 
 ## O regate do bom e velho Lean
 
@@ -151,7 +171,7 @@ Os setes "mudas" - eliminados do fluxo
 - Transporte / transferência
 - Espera / fila / atraso
 - Superprodução
-- Defito
+- Defeito
 - Estoque
 - Movimentação desnecessária
 - Processamento extra
@@ -168,3 +188,14 @@ Os setes "mudas" - eliminados do fluxo
 - Sistemas à prova de erros
 - Just in time
 - Sensei lean - o guia, couch
+
+### Lean e valor ao negócio
+
+Na ótica do Lean, desperdício é qualquer coisa que não adiciona valor ao produto ou serviço que a organização entrega ao mercado. Nesta conceituação, todos os itens abaixo são **desperdícios**:
+
+- **Geração de evidências de testes.** Isto é um desperdício na ótica do Lean, pois trata-se de algo que se destina a “provar que um teste foi feito”, sem representar necessariamente adição de valor. Qualquer atividade de inspeção ou de confirmação de inspeção no máximo previne o não-valor.
+- **Atendimento a legislação.** Embora seja algo necessário, atender a normas não adiciona valor ao produto. Este atendimento livra a empresa de problemas, mas este esforço não desemboca necessariamente nas características do produto.
+- **Correção de defeitos em inspeções finais.** Tirar defeitos não adiciona valor – apenas repõe um valor que já deveria estar no produto por definição. Imagine um grande esforço de inspeção final sendo necessário para que o produto seja entregue corretamente – isto cheira a desperdício (energia infelizmente tendo de ser gasta) e problemas no sistema de produção, não?
+
+**Inserção de um detalhe meramente cosmético em um produto, por um capricho do mercado.**  Isto **não é considerado um desperdício**, por mais fútil que seja o detalhe introduzido. Se o mercado quer e está disposto a pagar, trata-se de valor.
+
