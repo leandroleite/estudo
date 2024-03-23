@@ -1,4 +1,4 @@
-# Transformação orgazicional Lean-Ágil além da TI
+# Contexto do Mindset Lean-Ágil
 
 ## Paradigmas orgazicionais em declínio
 
