@@ -40,7 +40,7 @@ O Ágil Escalado tem um modelo top-down de decomposição (**escalação**) de p
 
 Existem frameworks que trata basicamente da **integração** e da **escalação** das frentes de desenvolvimento.
 
-![Frameworks](01_contexto_mindset_lean_agil.md___frameworks.png)
+![Frameworks](02_expansao_dos_horizontes_do_agil___frameworks.pngg)
 
 ### Ágil em grandes empreitadas
 
