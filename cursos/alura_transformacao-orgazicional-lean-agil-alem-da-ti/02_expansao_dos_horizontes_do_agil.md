@@ -118,3 +118,40 @@ Para introduzir o Ágil em uma área de negócios, convém lembrar que o Ágil �
 
 ## Escalações do Ágil espontânea e induzida
 
+### Espontânea
+
+Exemplo empresa com produto central é um sofware, e é grande. Facebook
+
+### Induzida
+
+Não é sofware o produto central. Mas deseja se impregnar com cultura Ágil. Pega carona a cultura Ágil. Precisa de um **Processo de transformação**.
+
+- 1º passo: Ágil já deve existir no âmbito do software
+- 2º passo: cultura do ágil deve se espaçha para outras funções da organização, além da TI
+- 3º passo: a estrutura da organização precisa ser repensada
+
+### Paradigma Lean-Ágil
+
+O Lean conversa bem com o Ágil e contribui com a universalidade de suas técnicas.
+
+## Ágil nas áreas de negócio: sonho e realidade
+
+### Armadilhas
+
+- Negócios não são desenvolvimento de software
+- Áreas de negócios baseadas em comando-e-controle não são preparadas para o Ágil
+- Não basta tentar usar ferramenta Ágil
+
+## Sissonância cultural
+
+Quando uma empresa de cultura autoritária, baseada em comando e controle, falha em implementar o Ágil (o que quer que se tenha entendido por tal movimento), que tipo de explicação mais comumente brota na organização? A culpa será atribuída à "**imaturidade das equipes**".
+
+- Em uma empresa autoritária o que menos haverá é uma explicação de que há algo errado com a cultura. O medo e a dissimulação tratarão de achar outra justificativa.
+- Em uma cultura autoritária, fica difícil reconhecer que se tentou algo que não funciona. É mais fácil dizer que “funciona, mas não aqui por falha de alguém ou alguma coisa”.
+- Em uma cultura autoritária, nenhuma explicação culpando a cúpula ganhará terreno.
+
+## Comunicação osmótica
+
+ Trata-se da troca de informações de maneira informal, onde todos sabem o que os outros membros da equipe estão fazendo sem necessidade de interromper o fluxo de trabalho para fazer uma reunião.
+
+ As pessoas devem conversar, devem se comunicar, dar feedback. Mas que seja de uma maneira que não quebre o fluxo. O fluxo é tudo. Reuniões, projetos tradicionais e pensamento departamental quebram o fluxo. Sem fluxo o valor não chega ao cliente. E não adianta fazer reunião depois para discutir o que está acontecendo – talvez não haja mais sala, café morno nem luz acesa.
