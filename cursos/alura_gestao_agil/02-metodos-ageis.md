@@ -31,8 +31,6 @@ Kanban não é uma transformação "big bang" indo de um estado atual para um es
 Temos a criação de um quadro visual para enxergar o trabalho. Você vai usar cartões que devem fluir de maneira contínua.
 
 - Pare de começar, comece a terminar.
-- princípios
-  - 
 
 ## Scrum
 
@@ -50,5 +48,3 @@ Temos a criação de um quadro visual para enxergar o trabalho. Você vai usar c
   - Reunião Diária: todo dia dentro da Sprint fazemos uma reunião para conferir se estamos atingindo os objetivos propostos;
   - Revisão do Sprint: ao final da Sprint, analisamos tudo o que conseguimos fazer;
   - Retrospectiva do Sprint: onde inspecionamos o que poderíamos ter feito diferente e o que podemos melhorar nas próximas Sprints.
-
-
