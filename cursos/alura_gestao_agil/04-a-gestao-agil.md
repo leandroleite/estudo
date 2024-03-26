@@ -44,4 +44,3 @@ Desempenha um papel fundamental na motivação e no engajamento das pessoas cola
 ### Pertencimento
 
 Propósito, hierarquia e pertencimento estarão sempre juntos!
-
