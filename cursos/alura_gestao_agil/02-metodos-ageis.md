@@ -31,9 +31,24 @@ Kanban não é uma transformação "big bang" indo de um estado atual para um es
 Temos a criação de um quadro visual para enxergar o trabalho. Você vai usar cartões que devem fluir de maneira contínua.
 
 - Pare de começar, comece a terminar.
+- princípios
+  - 
 
 ## Scrum
 
 "Mudar o desenho do seu núcleo ou as ideias do Scrum, deixando de fora elementos ou não seguindo as regras do Scrum, encobre os problemas e limita seus benefícios, podendo mesmo torná-lo inútil."
+
+- Sprints, iterações, incrementos, backlog, papéis e cerimônias
+- Meta sprint não é colocada em risco por alterações
+- Princípios: Transparência, Inspeção, Adaptação
+- O time Scrum é uma equipe auto-organizada e multifuncional que colabora para entregar o produto:
+  - Scrum Master
+  - Product Owner
+  - Equipe de Desenvolvimento.
+- eventos:
+  - Reunião de Planejamento da Sprint: onde se planeja antes da Sprint o que vamos fazer naquele período definido como Sprint;
+  - Reunião Diária: todo dia dentro da Sprint fazemos uma reunião para conferir se estamos atingindo os objetivos propostos;
+  - Revisão do Sprint: ao final da Sprint, analisamos tudo o que conseguimos fazer;
+  - Retrospectiva do Sprint: onde inspecionamos o que poderíamos ter feito diferente e o que podemos melhorar nas próximas Sprints.
 
 
