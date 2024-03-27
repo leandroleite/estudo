@@ -136,6 +136,34 @@ Compromisso associado ao Incremento:
 - Definição de pronto = descrição formal do estado do Incremento quando ele atende aos requisitos e à qualidade exigidas.
 - A definição de pronto deve ser acordada no início dos trabalhos e incluir aspectos de completeza e qualidade.
 
+## Reunião de Planejamento do Sprint
 
+- Seleção dos itens que serão incorporados no sprint (deliberação com PO).
+- Determinação das tarefas necessárias (como o trabalho será realizado) para cumprir a meta do sprint então estabelecida (composição do Sprint Backlog).
 
+### Tópicos - Scrim Guide
 
+- Por que este sprint é valioso?
+- O que pode ser feito neste sprint?
+- Como o trabalho escolhido será realizado?
+
+## Reunião diária
+
+- O propósito da Daily Scrum é inspecionar o progresso em direção à meta de sprint e adaptar o Sprint Backlog, conforme necessário.
+- A Daily Scrum é um evento de 15 minutos e não é o único momento para ajustes no plano.
+- Reporte de impedimentos
+
+## Revisão do Sprint
+
+- O propósito da reunião é inspecionar o resultado do sprint e determinar adaptações futuras.
+- A Equipe Scrum apresenta os resultados de seu trabalho para os principais stakeholders e é discutido o progresso em direção ao objetivo do produto.
+- O Product Backlog pode ser ajustado em função do que ocorrer na reunião.
+- O produto deve estar funcional (não se trata de entrega de documentação ou de protótipo) e normalmente é feita uma demonstração em auditório ou sala de reunião.
+- Uma entrega é efetiva se obedecer à definição de pronto estabelecida.
+
+## Reunião de restrospectiva
+
+Visa discutir o que deu certo e o que deu errado no sprint, para identificar possíveis melhorias para o próximo.
+
+- A Equipe Scrum identifica as mudanças mais úteis para melhorar sua eficácia.
+- As melhorias mais impactantes são endereçadas o mais rápido possível e podem até ser adicionadas no Sprint Backlog do próximo sprint.
