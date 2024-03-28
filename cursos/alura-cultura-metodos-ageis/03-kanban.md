@@ -29,6 +29,8 @@ O Kanban é um instrumento de gerenciamento de um fluxo, altamente visual, basea
   - Deve ser minimizado.
 - Cycle times (tempos de ciclo).
   - Em cada cycle, há tempos ativos e de espera.
+ 
+### WIP: work in progress
 
 ### Inimigos da minimização do lead time
 
