@@ -63,4 +63,32 @@ Encontros fixos do time
 - Sprint Review 
 - Sprint Retrospective.
 
+## Processo do Scrum
+
+![Scrum](01-o-que-e-scrum___scrum.png)
+
+### Responsabilidades da pessoa Product Owner
+
+- Definir requisitos do produto
+- Alinhar as entregas do time
+- Gerenciar e atualizar product backlog
+- Iniciar e/ou cancelar uma Sprint
+
+### O Scrum Master deve
+
+- Aumentar a autonomia do time Scrum
+- Ter conhecimento técnico sobre Scrum
+- Entender e saber lidar com pessoas
+
+### Responsabilidades do Scrum Master
+
+- Garantir os valores, práticas e regras do Scrum
+- Remover barreiras
+- Dar feedbacks
+- Garantir a produtividade do time
+- Organizar e facilitar eventos Scrum
+
+
+
+
 
