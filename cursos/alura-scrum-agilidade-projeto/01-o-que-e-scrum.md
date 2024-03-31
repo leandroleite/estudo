@@ -22,4 +22,45 @@ Trabalhar em um produto em ciclos curtos possibilita um feedback inicial do usu�
 - Identificação dos gargalos do projeto
 - Motivação dos colaboradores
 
+## Os 3 pilares do Scrum
+
+- **Transparência**: Informação acessível a todos os envolvidos no projeto.
+- **Inspeção**: Verificações constantes do processo de projeto.
+- **Adaptação**: Adaptar o processo e/ou produto quando necessário.
+
+## Valores
+
+- Compromisso
+- Foco
+- Abertura
+- Respeito
+- Coragem
+
+## Framework Scrum
+
+### Papéis
+
+Ocupação de cada membro do time
+
+- Scrum Master,
+- Product Owner,
+- Development Team
+
+### Artefatos
+
+Informações essenciais para o andamento do projeto
+
+- Product Backlog,
+- Sprint Backlog,
+- Incrementos
+
+### Eventos
+
+Encontros fixos do time
+
+- Sprint Planning
+- Sprint, Daily Scrum
+- Sprint Review 
+- Sprint Retrospective.
+
 
