@@ -88,7 +88,15 @@ Encontros fixos do time
 - Garantir a produtividade do time
 - Organizar e facilitar eventos Scrum
 
+### Responsabilidades do time de desenvolvimento
 
+Os desenvolvedores mais efetivos são aqueles que se envolvem e se engajam integralmente. Desde o entendimento dos problemas a serem resolvidos até a definição, a mplementação e a validação de soluções, trabalhando lado a lado com Product Owner, clientes, usuários e demais partes interessadas durante todo o processo.
+
+- Elaborar um plano para a Sprint (Sprint Backlog)
+- Determinar tecnicamente um incremento
+- Coordenar e executar seu próprio trabalho
+- Garantir a melhoria contínua do produto
+- Informar impedimentos
 
 
 
