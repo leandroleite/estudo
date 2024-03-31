@@ -162,5 +162,3 @@ Evento com duração fixa - 2 a 4 semanas
 - Avaliação do processo de trabalho
 - Time scrum
 - Resultado: Plano de ação
-
-
