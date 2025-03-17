@@ -10,5 +10,7 @@ titulo: Sistema Financeiro Nacional e Participantes do Mercado
 ## 1.5 Superintendência Nacional de Previdência Complementar – PREVIC
 ## 1.6 ANBIMA
 # 2 Bancos Múltiplos
+## 2.1 Principais carteiras
+## 2.2 Principais funções e atribuições
 # 3 Distribuidoras e Corretoras de Títulos e Valores Mobiliários e de Futuros
 # 4 Investidores Qualificados, Investidores Profissionais e Investidores Não-Residentes
