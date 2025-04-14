@@ -1,7 +1,8 @@
 ---
 titulo: Product Owner
 ---
-- [Introdução a atividades](https://developer.android.com/guide/components/activities/intro-activities?hl=pt-br): A classe Activity é um componente crucial de um app para Android, e a maneira como as atividades são lançadas e reunidas é uma parte fundamental do modelo de aplicativo da plataforma. 
+- [Entenda o que é um Product Owner, a importância desse cargo e como se tornar um!](https://voitto.com.br/blog/artigo/product-owner): Entenda o que é e como se tornar um Product Owner e também como esse cargo vem ganhando força no mercado de trabalho e se expandindo cada vez mais.
+- [Product owner: entenda o que faz esse papel nos Métodos Ágeis](https://robsoncamargo.com.br/blog/papel-do-product-owner): O Product Owner é um dos três papéis fundamentais da metodologia ágil Scrum.
 
 # Product Owner
 
