@@ -37,29 +37,3 @@ Existem dois artefatos principais que resultam de uma reunião de planejamento d
 ## Resumo
 
 O planejamento de sprint é um evento crucial no Scrum que permite que a equipe se prepare para o trabalho da próxima iteração, garantindo clareza, alinhamento, produtividade e qualidade.
-
-## Glossário
-
-- **Sprint**: Um período de tempo definido e limitado no Scrum em que todo o trabalho para alcançar a meta do sprint é realizado.
-- **Planejamento de Sprint**: Um evento com limite de tempo no início de cada sprint onde o time Scrum colabora para definir o trabalho a ser realizado durante o sprint, selecionando itens do backlog do produto e criando um plano de como esse trabalho será feito.
-- **Time-box**: A duração máxima de tempo definida para um evento no Scrum, como o planejamento de sprint.
-- **Product Owner**: O membro do time Scrum responsável por maximizar o valor do produto, o que inclui gerenciar e priorizar o backlog do produto.
-- **Time de Desenvolvimento**: O grupo de profissionais que realiza o trabalho de entrega de um incremento "Pronto" a cada sprint. No planejamento de sprint, eles selecionam itens do backlog e criam o plano de como realizá-los.
-- **Scrum Master**: O membro do time Scrum responsável por garantir que o Scrum seja compreendido e implementado. Ele facilita o evento de planejamento de sprint e treina o time, se necessário.
-- **Backlog do Produto**: Uma lista ordenada de tudo o que pode ser necessário para o produto. É a única fonte de trabalho para o time Scrum.
-- **Backlog do Sprint**: O conjunto de itens do backlog do produto selecionados para o sprint, além de um plano para entregar o incremento e a meta do sprint.
-- **Meta do Sprint**: Um objetivo único para o sprint que comunica por que o sprint é valioso para as partes interessadas.
-- **Incremento**: A soma de todos os itens do backlog do produto concluídos durante um sprint e todos os incrementos dos sprints anteriores.
-- **Refinamento do Backlog**: Um evento opcional no Scrum onde o time e o Product Owner adicionam detalhes, estimativas e ordem aos itens do backlog do produto.
-- **Definição de Pronto (Definition of Done - DoD)**: Um entendimento compartilhado pelo time Scrum sobre o que significa que um item do backlog do produto está "Pronto" para ser liberado.
-- **Definição de Pronto para Começar (Definition of Ready - DoR)**: Critérios que determinam que um item do backlog do produto está pronto para ser selecionado e trabalhado em um sprint.
-- **Velocidade**: Uma medida da quantidade de trabalho (geralmente em pontos de história ou horas) que um time Scrum concluiu em sprints anteriores. Pode ser usada como uma diretriz para previsão, mas não como uma métrica rígida.
-- **Capacidade**: A quantidade de trabalho que um time de desenvolvimento pode realizar durante um sprint específico, levando em consideração fatores como feriados, ausências e o tamanho do time.
-- **Estimativa**: O processo de prever a quantidade de esforço necessário para concluir um item do backlog do produto.
-- **Pontos de História (Story Points)**: Uma técnica de estimativa que atribui um valor numérico a um item do backlog do produto com base no esforço, complexidade e incerteza.
-- **Tamanho das Camisetas (T-shirt Sizing)**: Outra técnica de estimativa que usa categorias como P, M, G, GG para estimar o tamanho dos itens do backlog do produto.
-- **Empírico**: Baseado na experiência e observação. O Scrum é um processo empírico, o que significa que o planejamento é feito aprendendo fazendo e alimentando essas informações de volta ao processo.
-- **Histórias de Usuário**: Descrições de um recurso ou funcionalidade do ponto de vista do usuário. São uma forma comum de escrever itens do backlog do produto.
-- **Retrospectiva da Sprint**: Um evento no final de cada sprint onde o time inspeciona a si mesmo e cria um plano para melhorias a serem implementadas no próximo sprint.
-- **Revisão da Sprint**: Um evento no final de cada sprint onde o time inspeciona o resultado do sprint e adapta o backlog do produto, se necessário. O feedback das partes interessadas é coletado aqui.
-- **Stakeholders**: Indivíduos ou grupos com interesse no produto que está sendo desenvolvido.
