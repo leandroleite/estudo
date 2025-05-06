@@ -38,16 +38,3 @@ Frequentemente a equipe responde a três perguntas:
 3. Existem obstáculos/impedimentos?.
 
 A equipe pode ajustar o Sprint Backlog adicionando, removendo, dividindo e decompondo itens. Se houver desafios ou impedimentos, a equipe os aborda. Problemas que não podem ser resolvidos nos 15 minutos devem ser planejados para colaboração fora da reunião.
-
-## Glossário
-
-- **Daily Scrum**: Um evento diário de 15 minutos para os Desenvolvedores inspecionarem o progresso em direção à Meta do Sprint e adaptarem o Sprint Backlog, se necessário.
-- **Sprint**: Um período de tempo limitado e consistente no qual a equipe Scrum trabalha para completar um conjunto de trabalho e atingir uma Meta do Sprint.
-- **Meta do Sprint**: O objetivo único para o Sprint, estabelecido durante o Planejamento do Sprint. Fornece direção para a Equipe Scrum.
-- **Sprint Backlog**: Um conjunto de Itens do Product Backlog selecionados para o Sprint, mais um plano para entregar o Incremento do produto e atingir a Meta do Sprint.
-- **Impedimentos**: Obstáculos ou problemas que a equipe Scrum está enfrentando e que podem dificultar o progresso em direção à Meta do Sprint.
-- **Product Owner**: Membro da equipe Scrum responsável por maximizar o valor do produto resultante do trabalho da Equipe Scrum. Mantém o Product Backlog.
-- **Equipe do Projeto**: Membros da equipe Scrum que se comprometem a criar qualquer aspecto de um Incremento utilizável a cada Sprint. São auto-organizados.
-- **Scrum Master**: Membro da equipe Scrum responsável por garantir que o Scrum seja compreendido e implementado. Serve a Equipe Scrum e a organização.
-- **Product Backlog**: Uma lista ordenada e emergente do que é necessário para melhorar o produto. É a única fonte de trabalho a ser feito pela Equipe Scrum.
-- **Incremento**: Um pedaço de funcionalidade utilizável e potencialmente entregável do produto criado durante um Sprint.
