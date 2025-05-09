@@ -45,8 +45,3 @@ A Revisão do Sprint é o penúltimo evento do Sprint. Tem uma duração máxima
 - **Ajuda na adaptação**: Facilita a identificação de problemas e a tomada de decisões sobre como ajustar o produto e o processo.
 - **Promove a confiança**: Demonstra o progresso do projeto e a importância do feedback dos stakeholders, construindo confiança entre a equipe e os interessados.
 - **Melhora a qualidade**: Ao receber feedback constante, a equipe pode adaptar o produto para atender melhor às necessidades dos usuários, resultando em um produto de melhor qualidade.
-Um acordo formal sobre o conjunto de critérios que o trabalho deve atender para ser considerado concluído e liberar para o cliente ou usuário.
-- **Scrum Team**: A equipe no Scrum, que consiste em um Product Owner, um Scrum Master e Desenvolvedores. É auto-organizada e multifuncional.
-- **Product Owner**: Membro da Scrum Team responsável por maximizar o valor do produto resultante do trabalho da Equipe de Desenvolvimento. Gerencia o Product Backlog.
-- **Scrum Master**: Membro da Scrum Team que é responsável por garantir que o Scrum seja entendido e implementado. Serve a Equipe Scrum e a organização.
-- **Desenvolvedores**: Os membros da Scrum Team que estão comprometidos em criar qualquer aspecto de um Incremento utilizável a cada Sprint.
