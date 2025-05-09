@@ -45,15 +45,7 @@ A Revisão do Sprint é o penúltimo evento do Sprint. Tem uma duração máxima
 - **Ajuda na adaptação**: Facilita a identificação de problemas e a tomada de decisões sobre como ajustar o produto e o processo.
 - **Promove a confiança**: Demonstra o progresso do projeto e a importância do feedback dos stakeholders, construindo confiança entre a equipe e os interessados.
 - **Melhora a qualidade**: Ao receber feedback constante, a equipe pode adaptar o produto para atender melhor às necessidades dos usuários, resultando em um produto de melhor qualidade.
-
-## Glossário
-
-- **Sprint Review**: Reunião informal, geralmente ao final de cada sprint em metodologias ágeis como o Scrum, onde a equipe demonstra o trabalho realizado e obtém feedback dos stakeholders.
-- **Stakeholders**: Partes interessadas no projeto ou produto, que podem incluir clientes, usuários, gerentes e outros envolvidos.
-- **Incremento do Produto**: A soma de todos os itens do Product Backlog concluídos durante um Sprint e todos os Incrementos dos Sprints anteriores. Deve ser "Feito" e utilizável.
-- **Objetivo do Sprint**: Uma meta única definida pela Equipe Scrum para o Sprint, que fornece direção e foco.
-- **Product Backlog**: Uma lista ordenada de tudo o que é conhecido como necessário no produto. É a única fonte de requisitos para quaisquer alterações a serem feitas no produto.
-- **Definição de Pronto**: Um acordo formal sobre o conjunto de critérios que o trabalho deve atender para ser considerado concluído e liberar para o cliente ou usuário.
+Um acordo formal sobre o conjunto de critérios que o trabalho deve atender para ser considerado concluído e liberar para o cliente ou usuário.
 - **Scrum Team**: A equipe no Scrum, que consiste em um Product Owner, um Scrum Master e Desenvolvedores. É auto-organizada e multifuncional.
 - **Product Owner**: Membro da Scrum Team responsável por maximizar o valor do produto resultante do trabalho da Equipe de Desenvolvimento. Gerencia o Product Backlog.
 - **Scrum Master**: Membro da Scrum Team que é responsável por garantir que o Scrum seja entendido e implementado. Serve a Equipe Scrum e a organização.
