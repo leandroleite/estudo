@@ -41,4 +41,4 @@ Em Scrum e metodologias ágeis, um sprint **é um ciclo de desenvolvimento fixo,
 
 ## Cancelamento
 
-Um Sprint pode ser cancelado se a Meta do Sprint se **t**ornar obsoleta**. Apenas o **Product Owner** tem autoridade para cancelar o Sprint.
+Um Sprint pode ser cancelado se a Meta do Sprint se **tornar obsoleta**. Apenas o **Product Owner** tem autoridade para cancelar o Sprint.
