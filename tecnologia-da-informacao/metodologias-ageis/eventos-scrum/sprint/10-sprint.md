@@ -42,19 +42,3 @@ Em Scrum e metodologias ágeis, um sprint **é um ciclo de desenvolvimento fixo,
 ## Cancelamento
 
 Um Sprint pode ser cancelado se a Meta do Sprint se **t**ornar obsoleta**. Apenas o **Product Owner** tem autoridade para cancelar o Sprint.
-
-## Glossário
-
-- **Sprint**: Um ciclo de desenvolvimento de duração fixa (geralmente de uma a quatro semanas) em Scrum, onde uma equipe planeja, executa e entrega um incremento utilizável do produto.
-- **Incremento**: Um pedaço utilizável e potencialmente liberável do produto criado durante um Sprint.
-- **Meta do Produto**: Um objetivo de longo prazo que descreve um estado futuro desejado para o produto. Serve como alvo para o planejamento da Equipe Scrum.
-- **Meta do Sprint**: O único objetivo do Sprint atual. Cria coerência e foco para a equipe durante o Sprint.
-- **Planejamento da Sprint**: Uma reunião que ocorre no início de um Sprint para definir a Meta do Sprint e selecionar os itens do Product Backlog a serem trabalhados.
-- **Reunião Diária**: Uma breve reunião diária para a equipe de desenvolvimento inspecionar o progresso em direção à Meta do Sprint e adaptar o plano para as próximas 24 horas.
-- **Revisão da Sprint**: Uma reunião que ocorre no final do Sprint para inspecionar o incremento e adaptar o Product Backlog, se necessário. A equipe apresenta o resultado do Sprint.
-- **Retrospectiva da Sprint**: Uma reunião que ocorre após a Revisão da Sprint para a Equipe Scrum inspecionar a si mesma e criar um plano de melhorias a serem implementadas no próximo Sprint.
-- **Product Backlog**: Uma lista ordenada de tudo o que é conhecido por ser necessário no produto. É a única fonte de trabalho para a Equipe Scrum.
-- **Empirismo**: A prática de tomar decisões com base no que já aconteceu. Em Scrum, é fundamental para navegar em ambientes complexos e adaptar-se aprendendo com a experiência.
-- **Product Owner**: O membro da Equipe Scrum responsável por maximizar o valor do produto resultante do trabalho da Equipe de Desenvolvimento.
-- **Equipe de Desenvolvimento**: O grupo de pessoas dentro da Equipe Scrum que se compromete a entregar um incremento utilizável do produto a cada Sprint.
-- **Scrum Master**: O membro da Equipe Scrum responsável por promover e suportar o Scrum conforme definido no Guia do Scrum. Ele ajuda a remover impedimentos para a equipe.
