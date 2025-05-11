@@ -71,25 +71,3 @@ Apesar de desempenhar um papel de liderança, o Scrum Master **não toma as deci
 ## Resumo
 
 Em resumo, o Scrum Master é um **líder servidor** que **facilita a adoção e a prática do Scrum**, **ajuda a equipe a se auto-organizar e a melhorar continuamente**, e **remove impedimentos**, garantindo a entrega de valor de forma eficaz. A presença de um Scrum Master é considerada essencial para a implementação bem-sucedida do Scrum.
-
-## Glossário
-
-- **Scrum Master**: Um líder servidor responsável por garantir que o Scrum seja compreendido e implementado de acordo com o Guia do Scrum, facilitando o trabalho do Scrum Team e removendo impedimentos.
-- **Scrum Team**: Um time auto-organizado e multifuncional composto por um Product Owner, um Scrum Master e Developers, responsável por entregar incrementos de produto.
-- **Product Owner**: O responsável por maximizar o valor do produto resultante do trabalho do Scrum Team, gerenciando o Product Backlog e representando a voz do cliente.
-- **Product Backlog**: Uma lista ordenada de tudo o que pode ser necessário no produto, sendo a única fonte de requisitos para quaisquer mudanças a serem feitas no produto.
-- **Sprint**: Uma iteração com duração fixa (timebox) durante a qual um incremento do produto potencialmente utilizável é criado.
-- **Definição de Pronto**: Uma descrição formal do estado do Increment quando ele atende às medidas de qualidade exigidas para o produto.
-- **Impedimento**: Qualquer obstáculo que impeça o Scrum Team de progredir ou atingir seus objetivos.
-- **Timebox**: Um período de tempo máximo atribuído a um evento Scrum, como um Sprint Planning ou uma Daily Scrum.
-- **Líder Servidor**: Um líder que se concentra em atender às necessidades de sua equipe, capacitando-os e removendo obstáculos para que possam ter sucesso.
-- **Auto-gerenciamento**: A capacidade do Scrum Team de decidir internamente quem faz o quê, quando e como.
-- **Cross-funcionalidade**: A característica dos membros do Scrum Team de possuírem coletivamente todas as habilidades necessárias para criar valor a cada Sprint.
-- **Incremento**: Um pedaço funcional do produto, utilizável e que adiciona valor aos incrementos anteriores.
-- **Stakeholder**: Indivíduos ou grupos com interesse no resultado do projeto Scrum.
-- **Empírico**: Baseado na experiência, observação e experimentação, em vez de teoria ou especulação.
-- **Framework Scrum**: Um framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos.
-- **Daily Scrum**: Um evento de 15 minutos para os Developers planejarem o trabalho para as próximas 24 horas, inspecionarem o progresso em direção à meta do Sprint e criarem um plano acionável para o próximo dia de trabalho.
-- **Sprint Planning**: Um evento colaborativo para planejar o trabalho a ser realizado na Sprint.
-- **Sprint Review**: Um evento realizado no final da Sprint para inspecionar o Increment e adaptar o Product Backlog, se necessário.
-- **Sprint Retrospective**: Um evento realizado após a Revisão da Sprint para planejar maneiras de aumentar a qualidade e a eficácia.
