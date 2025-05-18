@@ -35,32 +35,3 @@ Exemplos de critérios na DoR:
 ## Diferença entre DoR e Definition of Done (DoD)
 
 A Definition of Done (DoD) define quando um item do backlog está concluído e pronto para ser lançado, enquanto a DoR define quando está pronto para ser desenvolvido.
-
-## Glossário
-
-- **Backlog do Produto**: Uma lista ordenada de tudo que é conhecido como necessário no produto. É a única fonte de requisitos para quaisquer alterações a serem feitas no produto.
-- **Item do Backlog do Produto (PBI)**: Um item individual na lista do Backlog do Produto, que pode ser uma funcionalidade, aprimoramento, correção de bug ou trabalho técnico.
-- **Backlog da Sprint**: O conjunto de Itens do Backlog do Produto selecionados para o Sprint, mais o plano para entregar o Incremento e a Meta do Sprint.
-- **Critérios de Aceitação**: Condições que um Item do Backlog do Produto deve satisfazer para que o Product Owner o considere pronto.
-- **Definição de Concluído (DoD - Definition of Done)**: Um entendimento compartilhado dentro da Equipe Scrum sobre o que significa que o trabalho foi concluído e garante a qualidade do Incremento.
-- **Definição de Preparado (DoR - Definition of Ready)**: Um conjunto de critérios que um item do Backlog do Produto deve atender para ser considerado pronto para ser incluído no desenvolvimento em um Sprint. É uma prática complementar ao Scrum.
-- **Delivery**: O processo de desenvolver e lançar funcionalidades ou trabalho para os usuários.
-- **DevTeam**: No Scrum, é a parte da Equipe Scrum responsável por criar um Incremento potencialmente liberável de "Concluído" a cada Sprint.
-- **Épico**: Um grande Item do Backlog do Produto que é geralmente decomposto em itens menores e mais gerenciáveis.
-- **Incremento**: A soma de todos os Itens do Backlog do Produto "Concluídos" durante um Sprint e o valor dos Incrementos de todos os Sprints anteriores.
-- **Kanban**: Uma metodologia ágil focada na visualização do trabalho, limitação do trabalho em progresso e gestão do fluxo.
-- **Lead Time**: O tempo total decorrido desde o momento em que um pedido ou item de trabalho é iniciado até o momento em que é concluído e entregue.
-- **Mocks**: Objetos ou dados simulados usados em testes ou desenvolvimento quando as dependências reais não estão disponíveis.
-- **Planejamento da Sprint**: Um evento do Scrum onde a Equipe Scrum colabora para definir a Meta do Sprint e o Backlog da Sprint.
-- **Product Owner**: O membro da Equipe Scrum responsável por maximizar o valor do produto resultante do trabalho da Equipe de Desenvolvimento.
-- **Refinamento do Backlog do Produto**: A atividade contínua de adicionar detalhes, estimativas e ordem aos Itens do Backlog do Produto.
-- **Scrum**: Um framework ágil para gerenciar projetos complexos, focado em entrega iterativa e incremental.
-- **Scrum Master**: O membro da Equipe Scrum responsável por promover e apoiar o Scrum, ajudando todos a entender a teoria, práticas, regras e valores do Scrum.
-- **Sprint**: Um período de tempo fixo durante o qual a Equipe Scrum trabalha para criar um Incremento de produto "Concluído".
-- **Sprint Backlog**: Veja "Backlog da Sprint".
-- **Stakeholders**: Pessoas ou grupos com interesse no projeto ou produto.
-- **Swagger**: Uma ferramenta utilizada para documentar APIs (Interfaces de Programação de Aplicativos).
-- **Tech Lead**: Um membro sênior da equipe técnica responsável pela orientação técnica e liderança.
-- **Team Lead**: O líder da equipe, responsável por orientar e apoiar os membros da equipe.
-- **Time-to-market**: O tempo que leva desde a concepção de um produto ou funcionalidade até o seu lançamento para os clientes.
-- **Transparência**: Um dos pilares do Scrum, onde todos os aspectos do processo devem ser visíveis para aqueles que são responsáveis pelo resultado.
