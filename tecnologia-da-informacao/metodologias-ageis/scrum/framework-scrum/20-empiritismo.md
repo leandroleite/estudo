@@ -1,5 +1,0 @@
----
-titulo: Empiritismo
----
-
-# Empiritismo
