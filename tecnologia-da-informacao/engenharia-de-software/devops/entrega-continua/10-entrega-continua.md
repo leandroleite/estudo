@@ -28,18 +28,3 @@ A diferença crucial entre Entrega Contínua e Implantação Contínua é a pres
 
 - Com a Entrega Contínua, o artefato de compilação pronto para implantação aguarda a decisão do desenvolvedor para ser implantado em produção. Cada alteração de código é enviada para um ambiente de teste ou preparação (não produção).
 - Com a Implantação Contínua, a atualização da produção ocorre automaticamente, sem aprovação explícita.
-
-## Glossário
-
-- **Entrega Contínua**: Prática de desenvolvimento de software onde as alterações de código são automaticamente preparadas para uma liberação para produção, garantindo que o software esteja sempre pronto para ser lançado.
-- **Integração Contínua**: Prática onde os desenvolvedores integram o código frequentemente em um repositório compartilhado, geralmente várias vezes ao dia, e cada integração é verificada por uma compilação e testes automatizados.
-- **Pipeline de Lançamento**: Uma série de estágios automatizados que uma alteração de código passa desde o commit inicial até a implantação em produção, incluindo compilação, teste e preparação.
-- **Ambiente de Teste/Preparo**: Um ambiente que replica de perto o ambiente de produção e é usado para executar testes mais abrangentes antes da liberação final.
-- **Artefato de Compilação**: O resultado de um processo de compilação, como um pacote executável ou instalador, que está pronto para ser implantado.
-- **Implantação Contínua**: Uma extensão da Entrega Contínua onde as alterações de código que passam em todos os estágios do pipeline de lançamento são automaticamente implantadas em produção sem aprovação manual.
-- **Testes Automatizados**: Testes que são executados por meio de scripts e ferramentas, em vez de manualmente, como testes de unidade, integração, UI e carga.
-- **Infraestrutura como Código**: A prática de gerenciar e provisionar infraestrutura de TI através de código, em vez de processos manuais.
-- **Tempo de Mitigação**: O tempo que leva para resolver e mitigar um problema ou incidente de produção.
-- **Tempo de Correção**: Similar ao TTM, refere-se ao tempo necessário para corrigir um defeito ou erro após ele ter sido identificado.
-- **Fail-fast**: Uma abordagem em testes onde os testes com maior probabilidade de falha são executados primeiro no pipeline para identificar problemas o mais cedo possível.
-- **DevOps**: Um conjunto de práticas que combina desenvolvimento de software (Dev) e operações de TI (Ops) para encurtar o ciclo de vida de desenvolvimento de sistemas e fornecer entrega contínua de alta qualidade.
