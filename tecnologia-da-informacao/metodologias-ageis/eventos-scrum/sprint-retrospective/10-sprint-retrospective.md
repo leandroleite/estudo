@@ -39,3 +39,19 @@ O objetivo principal é planejar maneiras de aumentar a qualidade e a eficácia 
 ## Duração
 
 A Retrospectiva do Sprint conclui o Sprint. Tem um limite máximo de três horas para Sprints de um mês. Para Sprints mais curtos, o evento geralmente é mais curto.
+
+## O papel do Product Owner
+
+- **Participação:** O Product Owner é um membro integral da equipe Scrum e deve participar ativamente da retrospectiva.
+- **Visão Estratégica:** O PO traz a visão de negócio e os objetivos de longo prazo do produto, auxiliando a equipe a entender o impacto das melhorias no contexto geral.
+- **Feedback e Melhoria:** A retrospectiva é uma oportunidade para o PO receber feedback da equipe sobre a colaboração, a comunicação e a entrega de valor, buscando constantemente melhorias.
+- **Colaboração:** O PO deve trabalhar em conjunto com a equipe para criar um ambiente colaborativo onde todos possam contribuir para o sucesso do produto.
+- **Foco no Valor:** O PO garante que as ações de melhoria propostas na retrospectiva se concentrem em maximizar o valor entregue ao cliente.
+
+## O papel do Scrum Master
+
+- **Facilitação:** O Scrum Master lidera a reunião, garantindo que todos tenham a oportunidade de falar e que a discussão permaneça no tópico.
+- **Criação de um ambiente seguro:** O Scrum Master promove um ambiente onde a equipe se sinta confortável para compartilhar feedback, sem medo de julgamentos ou represálias,  
+- **Foco em aprendizado e melhoria:**     O Scrum Master ajuda a equipe a identificar padrões e tendências no feedback, transformando-os em ações concretas para o próximo sprint.
+- **Gerenciamento do tempo:** O Scrum Master garante que a retrospectiva ocorra dentro do tempo estipulado e que o foco permaneça na identificação de melhorias.
+- **Acompanhamento das ações:** Após a retrospectiva, o Scrum Master pode auxiliar a equipe a acompanhar o progresso das ações de melhoria e garantir que elas sejam implementadas.
