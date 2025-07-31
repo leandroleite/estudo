@@ -31,24 +31,3 @@ O planejamento de sprint **depende de um backlog refinado**, e o refinamento do 
 - **Planejamento de Sprint**: Neste evento, a equipe de desenvolvimento "pega tarefas do backlog e se compromete a entregar essas tarefas no próximo sprint.
 
 O Product Owner deve refinar o backlog do produto antes de cada reunião de planejamento de sprint.
-
-## Glossário
-
-- **Agile/Ágil**: Uma metodologia de gerenciamento de projetos que enfatiza o desenvolvimento iterativo e incremental, a colaboração, a inspeção frequente e a adaptação.
-- **Backlog/Backlog do Produto**: Uma lista priorizada de todas as funcionalidades, requisitos, aprimoramentos e correções de bugs que podem ser necessários para um produto.
-- **Backlog do Sprint**: Um subconjunto de itens do Backlog do Produto selecionados para serem concluídos durante um Sprint específico.
-- **Refinamento do Backlog**: O processo contínuo e colaborativo de revisar, esclarecer, estimar e priorizar os itens do Backlog do Produto para garantir que estejam bem definidos e prontos para sprints futuros.
-- **Critérios de Aceitação**: Condições que um item do Backlog do Produto deve satisfazer para ser considerado concluído e aceito.
-- **Desenvolvimento Iterativo e Incremental**: Um método de desenvolvimento onde o produto é construído em ciclos curtos (iterações/sprints) e novas funcionalidades são adicionadas em pequenos incrementos.
-- **Dono do Produto (Product Owner)**: O membro do Time Scrum responsável por maximizar o valor do produto e gerenciar o Backlog do Produto.
-- **Estimativa**: O processo de atribuir um esforço estimado ou tamanho a um item do Backlog do Produto, frequentemente usando técnicas como Planning Poker.
-- **Itens do Product Backlog (PBIs)**: As entradas individuais no Backlog do Produto, que podem ser funcionalidades, bugs, aprimoramentos, etc.
-- **Planning Poker**: Uma técnica de estimativa baseada em consenso, usada em Agile, onde os membros da equipe usam cartas com números para estimar o esforço de um item.
-- **Pronto (Ready)**: Um estado de um item do Backlog do Produto que indica que ele está bem definido, estimado e com critérios de aceitação claros, pronto para ser trabalhado em um Sprint.
-- **Priorização**: O ato de organizar os itens do Backlog do Produto com base em seu valor, dependências e objetivos do projeto.
-- **Scrum**: Uma estrutura ágil para gerenciar projetos, que enfatiza o trabalho em equipe, a responsabilidade e o progresso iterativo em um conjunto de práticas e valores.
-- **Scrum Master**: O membro do Time Scrum responsável por garantir que o Scrum seja compreendido e implementado, agindo como um facilitador e removedor de impedimentos.
-- **Sprint**: Um período de tempo fixo e curto (geralmente 1-4 semanas) durante o qual um Time Scrum trabalha para completar um conjunto de itens do Backlog do Produto.
-- **Time Scrum**: O grupo de pessoas envolvidas no Scrum, composto pelo Dono do Produto, Scrum Master e Time de Desenvolvimento.
-- **Time de Desenvolvimento (Developers)**: Os membros do Time Scrum que são responsáveis por entregar um incremento de produto potencialmente utilizável a cada Sprint.
-- **Timeboxing**: A prática de alocar um tempo máximo fixo para uma atividade, como uma reunião ou cerimônia, para garantir discussões focadas e evitar o consumo excessivo de tempo.
