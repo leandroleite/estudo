@@ -1,6 +1,0 @@
----
-titulo: Definição
----
-
-# Definição
-
