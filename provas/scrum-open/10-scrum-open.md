@@ -1,33 +1,3 @@
-How much work must the Developers complete for each Sprint?
-A. All development work and at least some testing.
-X B. Enough so that the Increment meets the Definition of Done.
-C. Analysis, design, programming, testing and documentation.
-D. As much as it can fit into the Sprint.
-Feedback
-The purpose of each Sprint is to deliver useful and valuable Increments that adhere to the Scrum Team's current Definition of Done.
-Outro teste.
--------------------------------------------------------------------------------
-The three pillars of Scrum are:
-X A. Transparency, Inspection, Adaptation.
-B. Respect For People, Kaizen, Eliminating Waste.
-C. Planning, Demonstration, Retrospective.
-D. Transparency, Eliminating Waste, Kaizen.
-E. Planning, Inspection, Adaptation.
-Feedback
-Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is known.
-The three pillars uphold empirical and lean thinking: transparency, inspection, and adaptation.
-What are three incorrect, untrue, or misleading statements about Scrum?
-X A. Scrum is a framework that eliminates complexity.
-B. Scrum is a framework for developing and sustaining complex products.
-X C. Scrum is a methodology where you can pick and choose which parts of Scrum you think will work for your environment.
-X D. Scrum is like traditional processes but with self-organization to replace Project Managers.
-E. Scrum is founded on empiricism and lean thinking.
-F. Each component of Scrum serves a specific purpose and is essential to your ability to use Scrum to develop complex products.
-Feedback
-- Scrum is meant to be implemented as prescribed in the Scrum Guide. For example, the five events in the Scrum Guide are mandatory, each event has a specific purpose.
-- Scrum does not eliminate the complexity that is inherent in delivering a product in today’s world, instead it offers a framework for dealing with complexity. By regularly delivering Increments of value teams gain the ability to inspect and rapidly adapt based on the feedback received.
-- Project Managers are not simply replaced by self-managing teams. Scrum is a framework for optimizing decision making based on the knowledge and experience of the entire team.
--------------------------------------------------------------------------------
 What is the main reason for the Scrum Master to be at the Daily Scrum?
 A. To write down any changes to the Sprint Backlog, including adding new items, and tracking progress on the burn-down.
 B. To make sure every team member answers the three questions.
@@ -65,6 +35,14 @@ X False
 Feedback
 A Scrum Team has a Scrum Master, a Product Owner and Developers. As a whole they have all controls needed.
 -------------------------------------------------------------------------------
+How much work must the Developers complete for each Sprint?
+A. All development work and at least some testing.
+X B. Enough so that the Increment meets the Definition of Done.
+C. Analysis, design, programming, testing and documentation.
+D. As much as it can fit into the Sprint.
+Feedback
+The purpose of each Sprint is to deliver useful and valuable Increments that adhere to the Scrum Team's current Definition of Done.
+-------------------------------------------------------------------------------
 When multiple Scrum Teams work together on the same product, each team should maintain a separate Product Backlog.
 True
 X False
@@ -97,11 +75,33 @@ E. The Scrum Master and Product Owner.
 Feedback
 Only the people doing the work described on the Sprint Backlog need to inspect and adapt at the Daily Scrum. If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers, they will need to be at the Daily Scrum.
 -------------------------------------------------------------------------------
+The three pillars of Scrum are:
+X A. Transparency, Inspection, Adaptation.
+B. Respect For People, Kaizen, Eliminating Waste.
+C. Planning, Demonstration, Retrospective.
+D. Transparency, Eliminating Waste, Kaizen.
+E. Planning, Inspection, Adaptation.
+Feedback
+Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is known.
+The three pillars uphold empirical and lean thinking: transparency, inspection, and adaptation.
+-------------------------------------------------------------------------------
 It is mandatory that the product Increment be released to production at the end of each Sprint.
 True
 X False
 Feedback
 The product Increment should be usable at the end of every Sprint, but it does not have to be released.
+-------------------------------------------------------------------------------
+What are three incorrect, untrue, or misleading statements about Scrum?
+X A. Scrum is a framework that eliminates complexity.
+B. Scrum is a framework for developing and sustaining complex products.
+X C. Scrum is a methodology where you can pick and choose which parts of Scrum you think will work for your environment.
+X D. Scrum is like traditional processes but with self-organization to replace Project Managers.
+E. Scrum is founded on empiricism and lean thinking.
+F. Each component of Scrum serves a specific purpose and is essential to your ability to use Scrum to develop complex products.
+Feedback
+- Scrum is meant to be implemented as prescribed in the Scrum Guide. For example, the five events in the Scrum Guide are mandatory, each event has a specific purpose.
+- Scrum does not eliminate the complexity that is inherent in delivering a product in today’s world, instead it offers a framework for dealing with complexity. By regularly delivering Increments of value teams gain the ability to inspect and rapidly adapt based on the feedback received.
+- Project Managers are not simply replaced by self-managing teams. Scrum is a framework for optimizing decision making based on the knowledge and experience of the entire team.
 -------------------------------------------------------------------------------
 What is the function or purpose of Management in Scrum?
 A. Monitor the progress of the Developers on the Scrum Team.
