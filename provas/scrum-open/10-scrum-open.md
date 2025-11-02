@@ -1,4 +1,3 @@
--------------------------------------------------------------------------------
 How much work must the Developers complete for each Sprint?
 A. All development work and at least some testing.
 X B. Enough so that the Increment meets the Definition of Done.
