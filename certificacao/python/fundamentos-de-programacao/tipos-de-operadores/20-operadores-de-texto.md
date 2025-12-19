@@ -14,7 +14,7 @@ Em Python, operadores de texto (strings) incluem **concatenação (+)**, **repet
 'Olá' + ' ' + 'Mundo'  # 'Olá Mundo'
 ~~~
 
-- __* (Repetição)__: Repete uma string um número de vezes.
+- *** (Repetição)**: Repete uma string um número de vezes.
 
 ~~~python
 'Oi' * 3  # 'OiOiOi'
@@ -75,6 +75,50 @@ print(f"Data de hoje: {agora:%d/%m/%Y}") # Saída: Data de hoje: 19/12/2025 (exe
 
 ~~~python
 print(f"|{nome:<10}|") # Saída: |Mundo     | (alinhado à esquerda)
+~~~
+
+## Método .format()
+
+O método .format() em Python serve para inserir variáveis e valores dentro de strings usando {} como marcadores de posição, substituídos na ordem ou por nome/índice, sendo uma forma mais moderna e flexível que o antigo operador %, e permitindo controle de formato (casas decimais, alinhamento) e reutilização de variáveis, ideal para construir textos dinâmicos em português ou qualquer idioma.
+
+- **Marcadores de Posição {}**: Coloque chaves onde os valores devem aparecer.
+- **Argumentos**: Passe os valores para o método .format() após a string. 
+
+~~~python
+nome = "Maria"
+idade = 30
+print("Olá, {}! Você tem {} anos.".format(nome, idade))
+# Saída: Olá, Maria! Você tem 30 anos.
+~~~
+
+- **Ordem Posicional**: Os argumentos são substituídos na ordem em que são passados.
+
+~~~python
+print("O {0} é {1}.".format("gato", "preto"))
+# Saída: O gato é preto.
+~~~
+
+- **Por Nome (Argumentos Nomeados)**: Para maior clareza e ordem flexível.
+
+~~~python
+print("O {animal} é {cor}.".format(cor="verde", animal="sapo"))
+# Saída: O sapo é verde.
+~~~
+
+- **Reutilização**: Pode-se usar o mesmo argumento múltiplas vezes.
+
+~~~python
+print("A {p} pode ser usada de novo: {p}!".format(p="variável"))
+# Saída: A variável pode ser usada de novo: variável!
+~~~
+
+- **Especificadores de Formato**: Controles finos para números, alinhamento, etc., usando : dentro das chaves.
+
+~~~python
+print("Número: {:d}, Float (2 casas): {:.2f}".format(10, 3.14159))
+# Saída: Número: 10, Float (2 casas): 3.14
+print("Alinhado à direita: {:>10}".format("oi"))
+# Saída: Alinhado à direita:         oi
 ~~~
 
 ## Exemplos Práticos
