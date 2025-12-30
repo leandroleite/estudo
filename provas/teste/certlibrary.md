@@ -4,7 +4,7 @@ Insert the correct snippet so that the program produces the expected output.
 
 Expected output:
 
-[image1.png](img_certlibrary_com___pcep-30-02___image1.png)
+![image1.png](img_certlibrary_com___pcep-30-02___image1.png)
 
 ~~~Python
 True
@@ -12,7 +12,7 @@ True
 
 Code:
 
-[image2.png](img_certlibrary_com___pcep-30-02___image2.png)
+![image2.png](img_certlibrary_com___pcep-30-02___image2.png)
 
 ~~~Python
 list = [False, True, "2", 3, 4, 5]
@@ -32,7 +32,7 @@ print (b)
 
 Assuming that the tuple is a correctly created tuple, the fact that tuples are immutable means that the following instruction:
 
-[image4.png](img_certlibrary_com___pcep-30-02___image4.png)
+![image4.png](img_certlibrary_com___pcep-30-02___image4.png)
 
 ~~~Python
 my_tuple[1] = my_tuple[1] + my_tuple[0]
@@ -49,7 +49,7 @@ my_tuple[1] = my_tuple[1] + my_tuple[0]
 
 What is the expected output of the following code?
 
-[image6.png](img_certlibrary_com___pcep-30-02___image6.png)
+![image6.png](img_certlibrary_com___pcep-30-02___image6.png)
 
 ~~~Python
 x = [@, 1, 2]
@@ -70,7 +70,7 @@ print (sum(x))
 
 What is the expected output of the following code?
 
-[image8.png](img_certlibrary_com___pcep-30-02___image8.png)
+![image8.png](img_certlibrary_com___pcep-30-02___image8.png)
 
 ~~~Python
 list1 = [1, 3]
@@ -90,7 +90,7 @@ print (list2)
 
 What is the expected output of the following code?
 
-[image10.png](img_certlibrary_com___pcep-30-02___image10.png)
+![image10.png](img_certlibrary_com___pcep-30-02___image10.png)
 
 ~~~Python
 data = [‘Peter’, 404, 3.03, ‘Wellert’, 33.3]
@@ -108,7 +108,7 @@ print (data[1:3])
 
 Take a look at the snippet, and choose the true statements: (Choose two.)
 
-[image12.png](img_certlibrary_com___pcep-30-02___image12.png)
+![image12.png](img_certlibrary_com___pcep-30-02___image12.png)
 
 ~~~Python
 nums
@@ -130,7 +130,7 @@ del vals[1:2]
 
 What is the output of the following snippet?
 
-[image14.png](img_certlibrary_com___pcep-30-02___image14.png)
+![image14.png](img_certlibrary_com___pcep-30-02___image14.png)
 
 ~~~Python
 det = {}
@@ -166,7 +166,7 @@ print(list('hello'))
 
 What will be the output of the following code snippet?
 
-[image16.png](img_certlibrary_com___pcep-30-02___image16.png)
+![image16.png](img_certlibrary_com___pcep-30-02___image16.png)
 
 ~~~Python
 a=[1, 2, 3, 4, 5, 6, 7, 8, 9]
@@ -184,7 +184,7 @@ print(a[::2])
 
 What will be the output of the following code snippet?
 
-[image18.png](img_certlibrary_com___pcep-30-02___image18.png)
+![image18.png](img_certlibrary_com___pcep-30-02___image18.png)
 
 ~~~Python
 d= {}
@@ -211,7 +211,7 @@ print (sum)
 
 What is the output of the following snippet?
 
-[image20.png](img_certlibrary_com___pcep-30-02___image20.png)
+![image20.png](img_certlibrary_com___pcep-30-02___image20.png)
 
 ~~~Python
 dictionary = {‘one': ‘two’, ‘three’: ‘one’, ‘two': 'three'}
@@ -238,7 +238,7 @@ print (v)
 
 What is the expected output of the following code?
 
-[image22.png](img_certlibrary_com___pcep-30-02___image22.png)
+![image22.png](img_certlibrary_com___pcep-30-02___image22.png)
 
 ~~~Python
 nums = [3, 4, 5, 20, 5, 25, 1, 3]
@@ -259,7 +259,7 @@ print (nums)
 
 Which of the following sentences is true?
 
-[image24.png](img_certlibrary_com___pcep-30-02___image24.png)
+![image24.png](img_certlibrary_com___pcep-30-02___image24.png)
 
 ~~~Python
 stri = ‘Peter’
@@ -288,7 +288,7 @@ The fact that tuples belong to sequence types means:
 
 What is the output of the following code?
 
-[image27.png](img_certlibrary_com___pcep-30-02___image27.png)
+![image27.png](img_certlibrary_com___pcep-30-02___image27.png)
 
 ~~~Python
 my_list = [3, 1, -4]
@@ -306,7 +306,7 @@ print(my_list)
 
 What is the expected output of the following code?
 
-[image29.png](img_certlibrary_com___pcep-30-02___image29.png)
+![image29.png](img_certlibrary_com___pcep-30-02___image29.png)
 
 ~~~Python
 data = ((1, 2),) *7
@@ -324,7 +324,7 @@ print (1en(data[3:8]))
 
 What is the expected output of the following code?
 
-[image31.png](img_certlibrary_com___pcep-30-02___image31.png)
+![image31.png](img_certlibrary_com___pcep-30-02___image31.png)
 
 ~~~Python
 data = {'Peter': 30, 'Paul': 31}
@@ -342,7 +342,7 @@ print (list (data.keys()))
 
 What is the output of the following snippet?
 
-[image33.png](img_certlibrary_com___pcep-30-02___image33.png)
+![image33.png](img_certlibrary_com___pcep-30-02___image33.png)
 
 ~~~Python
 tup = (1, ) + (1, )
@@ -362,7 +362,7 @@ print (len(tup))
 
 What is the expected output of the following code?
 
-[image35.png](img_certlibrary_com___pcep-30-02___image35.png)
+![image35.png](img_certlibrary_com___pcep-30-02___image35.png)
 
 ~~~Python
 data = (1, 2, 4, 8)
@@ -383,7 +383,7 @@ print (data)
 
 What is the output of the following snippet?
 
-[image37.png](img_certlibrary_com___pcep-30-02___image37.png)
+![image37.png](img_certlibrary_com___pcep-30-02___image37.png)
 
 ~~~Python
 my_list = [1, 2]
@@ -406,7 +406,7 @@ print(my_list)
 
 What is the expected output of the following code?
 
-[image39.png](img_certlibrary_com___pcep-30-02___image39.png)
+![image39.png](img_certlibrary_com___pcep-30-02___image39.png)
 
 ~~~Python
 data = [1, 2, 3, None, (), [1], ]
@@ -437,7 +437,7 @@ How would you remove all the items from the d dictionary?
 
 Expected output:
 
-[image41.png](img_certlibrary_com___pcep-30-02___image41.png)
+![image41.png](img_certlibrary_com___pcep-30-02___image41.png)
 
 ~~~Python
 cea
@@ -445,7 +445,7 @@ cea
 
 Code:
 
-[image42.png](img_certlibrary_com___pcep-30-02___image42.png)
+![image42.png](img_certlibrary_com___pcep-30-02___image42.png)
 
 ~~~Python
 
@@ -462,7 +462,7 @@ Code:
 
 What is the expected output of the following code?
 
-[image44.png](img_certlibrary_com___pcep-30-02___image44.png)
+![image44.png](img_certlibrary_com___pcep-30-02___image44.png)
 
 ~~~Python
 data = {'one': 'two', 'two': ‘three’, ‘three’: ‘one'}
@@ -487,7 +487,7 @@ print(res)
 
 What is the expected output of the following code?
 
-[image46.png](img_certlibrary_com___pcep-30-02___image46.png)
+![image46.png](img_certlibrary_com___pcep-30-02___image46.png)
 
 ~~~Python
 data = {'name': ‘Peter’, ‘age’: 30}
@@ -512,7 +512,7 @@ Which one of the lines should you put in the snippet below to match the expected
 
 Expected output:
 
-[image48.png](img_certlibrary_com___pcep-30-02___image48.png)
+![image48.png](img_certlibrary_com___pcep-30-02___image48.png)
 
 ~~~Python
 [4, 1, 7, 2, 'A°]
@@ -520,7 +520,7 @@ Expected output:
 
 Code:
 
-[image49.png](img_certlibrary_com___pcep-30-02___image49.png)
+![image49.png](img_certlibrary_com___pcep-30-02___image49.png)
 
 ~~~Python
 list = ['A', 2, 7, 1, 4]
@@ -541,7 +541,7 @@ print(list)
 
 What is the expected output of the following code?
 
-[image51.png](img_certlibrary_com___pcep-30-02___image51.png)
+![image51.png](img_certlibrary_com___pcep-30-02___image51.png)
 
 ~~~Python
 datal = '1', '
@@ -560,7 +560,7 @@ print(datal + data2)
 
 What is the expected output of the following code?
 
-[image53.png](img_certlibrary_com___pcep-30-02___image53.png)
+![image53.png](img_certlibrary_com___pcep-30-02___image53.png)
 
 ~~~Python
 data = (1, 2, 4, 8)
@@ -581,7 +581,7 @@ print (data)
 
 What is the output of the following snippet?
 
-[image55.png](img_certlibrary_com___pcep-30-02___image55.png)
+![image55.png](img_certlibrary_com___pcep-30-02___image55.png)
 
 ~~~Python
 my_list = [3, 1, -2]
