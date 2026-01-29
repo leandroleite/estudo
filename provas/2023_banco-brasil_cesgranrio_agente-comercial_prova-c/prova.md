@@ -206,17 +206,17 @@ Em 2021, uma empresa lançou o produto P, até então o único de sua categoria 
 
 Supondo-se que essa taxa de redução anual nas vendas se mantenha, o número aproximado de anos, depois de 2021, em que as vendas do produto P serão apenas 30% das vendas alcançadas no ano do seu lançamento é dado por
 
-- (A) ![A](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao-16-a.png)
-- (B) ![B](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao-16-b.png)
-- (C) ![C](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao-16-c.png)
-- (D) ![D](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao-16-d.png)
-- (E) ![E](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao-16-e.png)
+- (A) ![A](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao_16_a.png)
+- (B) ![B](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao_16_b.png)
+- (C) ![C](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao_16_c.png)
+- (D) ![D](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao_16_d.png)
+- (E) ![E](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao_16_e.png)
 
 ### QUESTAO NUMERO 17
 
 Em uma cidade, as empresas tendem a se tornar clientes de três grandes bancos (1, 2 e 3). Na matriz A, apresentada a seguir, o elemento da linha i e da coluna j representa o número de empresas que deixaram de ser clientes do banco i e se tornaram clientes do banco j no último triênio.
 
-![17](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao-17.png)
+![17](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao_17.png)
 
 Com base apenas na matriz A, no último triênio, o banco 2 teve um aumento de quantas empresas clientes?
 
@@ -228,7 +228,7 @@ Com base apenas na matriz A, no último triênio, o banco 2 teve um aumento de q
 
 ### QUESTAO NUMERO 18
 
-![18](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao-18.png)
+![18](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao_18.png)
 
 Em cada uma das latas da Figura acima há apenas lápis e borrachas. O número escrito em cada uma dessas latas indica a quantidade total desses objetos nela contidos. Uma dessas latas foi retirada e, considerando-se apenas as quatro latas restantes, o número total de lápis passou a ser o triplo do número total de borrachas.
 
@@ -244,7 +244,7 @@ Considerando-se apenas as quatro latas restantes, o número total de lápis exis
 
 Em uma plataforma de xadrez on-line, as estatísticas de um certo jogador são dadas na Tabela abaixo, em que se mostra a porcentagem de vitórias, empates e derrotas quando ele joga de brancas e quando ele joga de pretas.
 
-![19](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao-19.png)
+![19](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao_19.png)
 
 Sabe-se, também, que o número de vezes em que esse jogador empatou de brancas foi duas vezes maior que de pretas.
 
@@ -346,7 +346,7 @@ Um terreno está sendo vendido, à vista, por R$ 120.000,00, com pagamento na da
 
 Levando-se em conta apenas as condições apresentadas e os dados fornecidos, o valor mínimo de entrada, em reais, que a família precisará desembolsar, para comprar o terreno, é de, aproximadamente,
 
-![27](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao-27.png)
+![27](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao_27.png)
 
 - (A) 40.000,00
 - (B) 46.000,00
@@ -358,7 +358,7 @@ Levando-se em conta apenas as condições apresentadas e os dados fornecidos, o 
 
 Em um determinado banco, a taxa de juros para operações diretas de crédito é composta pelo custo financeiro anual e pela taxa do banco, e é calculada da seguinte forma:
 
-![28](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao-28.png)
+![28](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao_28.png)
 
 Sabe-se que o Fator Custo = 1 + Custo Financeiro e o Fator Taxa do Banco = 1 + Taxa do Banco, e que, para uma determinada modalidade de crédito, o Custo Financeiro é de 8% ao ano, e a taxa do banco é de 5% ao ano.
 
@@ -388,7 +388,7 @@ O cliente de um banco pretende investir R$ 200.000,00 em março de 2023, com o o
 
 Considerando-se que essa aplicação seja realizada conforme o planejamento apresentado, o primeiro mês de 2023 em que esse cliente poderá resgatar todo o dinheiro investido é
 
-![30](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao-30.png)
+![30](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao_30.png)
 
 - (A) agosto
 - (B) setembro
@@ -600,7 +600,7 @@ Nesse contexto, um exemplo de uma senha bem formada e segura é:
 
 Uma empresa financeira gerou a Tabela abaixo.
 
-![47](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao-47.png)
+![47](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2023_banco-brasil_cesgranrio_agente-comercial_prova-c/questao_47.png)
 
 Nessa Tabela, as colunas indicam:
 
