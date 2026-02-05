@@ -333,8 +333,6 @@ De acordo com a Carta Circular no 4.001/2020, incluem-se nas situações relacio
 
 ### QUESTAO NUMERO 26
 
-<![if !vml]>
-
 A Figura a seguir exibe uma árvore binária.
 
 ![Questão 20](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2024_caixa_cesgranrio_tecnologia/questao-20.png)
