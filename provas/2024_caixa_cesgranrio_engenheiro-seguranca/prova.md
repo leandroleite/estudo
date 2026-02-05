@@ -293,7 +293,7 @@ IV - Criar parcerias com os gerentes internos, os clientes externos, os líderes
 
 Esse líder educador, quando desempenha os papéis descritos em I, II, III e IV, está atuando, respectivamente, como
 
-![Questão 20]((https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2024_caixa_cesgranrio_engenheiro-seguranca/questao-20.png))
+![Questão 20](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2024_caixa_cesgranrio_engenheiro-seguranca/questao-20.png)
 
 - (A) pensador do sistema, parceiro de negócios, diretor de educação, formador de alianças
 - (B) diretor de educação, pensador do sistema, formador de alianças, parceiro de negócios
@@ -369,7 +369,7 @@ De acordo com os princípios da Administração Pública, a conduta do engenheir
 
 Uma pesquisa foi realizada com todos os 200 funcionários de uma empresa. Uma das variáveis a ser investigada é o número de dependentes por funcionário. Os dados sobre essa variável foram organizados e estão resumidos na Tabela a seguir.
 
-![Questão 26]((https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2024_caixa_cesgranrio_engenheiro-seguranca/questao-26.png))
+![Questão 26](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2024_caixa_cesgranrio_engenheiro-seguranca/questao-26.png)
 
 Considerando-se essas informações, o percentual de funcionários dessa empresa que têm até 2 dependentes, inclusive, é igual a
 
