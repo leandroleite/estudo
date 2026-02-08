@@ -176,8 +176,6 @@ a<sub>1</sub> = 3, a<sub>2</sub> = -2 e a<sub>n</sub> = a<sub>n - 2</sub> - a<su
 
 O termo a dessa sequência é
 
-### QUESTAO NUMERO 7
-
 - (A) 7
 - (B) - 7
 - (C) - 50
