@@ -232,7 +232,7 @@ Qual o número máximo de grupos diferentes que poderiam ser formados, atendendo
 
 Considere válidas as seguintes igualdades:
 
-(1,21)3 = ((1,1)2)3 = (1,1)6 = 1,772
+![Questão 19](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2024_bnb_cesgranrio_analista-bancario/questao-19.png)
 
 Tais igualdades justificam o fato de serem equivalentes as taxas de juros compostos
 
