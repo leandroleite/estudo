@@ -1127,9 +1127,9 @@ REFERENCES EMPREGADO (MATRICULA));
 
 O estado corrente desse banco de dados é exibido nas figuras abaixo.
 
-![Questão 52](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2021_2_basa_cesgranrio_tecnologia-da-informacao/questao-52-a.png)
+![Questão 52](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2021_2_basa_cesgranrio_tecnologia-da-informacao/questao-52-a.jpg)
 
-![Questão 52](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2021_2_basa_cesgranrio_tecnologia-da-informacao/questao-52-b.png)
+![Questão 52](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2021_2_basa_cesgranrio_tecnologia-da-informacao/questao-52-b.jpg)
 
 Qual comando INSERT irá falhar, na tentativa de incluir uma nova linha em uma das tabelas desse banco de dados?
 
@@ -1779,11 +1779,11 @@ O modelo relacional acima foi obtido por meio da aplicação de regras de transf
 
 Qual modelo E-R deu origem a essas tabelas?
 
-- (A) ![Questão 58-a](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2021_2_basa_cesgranrio_tecnologia-da-informacao/questao-58-a.png)
-- (B) ![Questão 58-b](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2021_2_basa_cesgranrio_tecnologia-da-informacao/questao-58-b.png)
-- (C) ![Questão 58-c](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2021_2_basa_cesgranrio_tecnologia-da-informacao/questao-58-c.png)
-- (D) ![Questão 58-d](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2021_2_basa_cesgranrio_tecnologia-da-informacao/questao-58-d.png)
--(E)![Questão 58-e](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2021_2_basa_cesgranrio_tecnologia-da-informacao/questao-58-e.png)
+- (A) ![Questão 58-a](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2021_2_basa_cesgranrio_tecnologia-da-informacao/questao-58-a.jpg)
+- (B) ![Questão 58-b](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2021_2_basa_cesgranrio_tecnologia-da-informacao/questao-58-b.jpg)
+- (C) ![Questão 58-c](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2021_2_basa_cesgranrio_tecnologia-da-informacao/questao-58-c.jpg)
+- (D) ![Questão 58-d](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2021_2_basa_cesgranrio_tecnologia-da-informacao/questao-58-d.jpg)
+-(E)![Questão 58-e](https://raw.githubusercontent.com/leandroleite/estudo/main/provas/2021_2_basa_cesgranrio_tecnologia-da-informacao/questao-58-e.jpg)
 
 ### QUESTAO NUMERO 59
 
