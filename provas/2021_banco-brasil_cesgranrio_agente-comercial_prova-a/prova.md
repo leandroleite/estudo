@@ -2,7 +2,7 @@
 
 ## Língua portuguesa
 
-### QUESTAO TEXTo 0
+### QUESTAO TEXTO 0
 
 #### Privacidade digital: quais são os limites
 
@@ -206,7 +206,7 @@ In paragraph 9, there is the information that in RoboCup competitions the game r
 - (D) robotic engineers
 - (E) virtual mechanisms
 
-### MATEMÁTICA
+## Matemática
 
 ### QUESTAO NUMERO 16
 
@@ -398,7 +398,7 @@ Desconsiderando-se o IOF na operação e supondo-se que a primeira prestação f
 - (D) R$ 1.420,00
 - (E) R$ 1.520,00
 
-### CONHECIMENTOS BANCÁRIOS
+## Conhecimentos bancários
 
 ### QUESTAO NUMERO 31
 
